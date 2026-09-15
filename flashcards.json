@@ -1,0 +1,3502 @@
+[
+  {
+    "chapter": 1,
+    "front": "What is the function of GLUT4 and what makes it unique among glucose transporters?",
+    "back": "GLUT4 is the insulin-responsive glucose transporter in skeletal muscle and adipose tissue; it translocates from intracellular vesicles to the cell surface only after insulin receptor signaling.",
+    "id": 1,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 1,
+    "front": "What role does the signal recognition particle play in protein synthesis?",
+    "back": "It recognizes the amino-terminal signal sequence on a nascent polypeptide and halts translation until the ribosome docks onto the endoplasmic reticulum membrane via its receptor.",
+    "id": 2,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 1,
+    "front": "Why do steroidogenic cells of the adrenal cortex contain abundant smooth endoplasmic reticulum?",
+    "back": "The smooth ER synthesizes steroid hormones and lipids, so cells with high steroidogenic output require large amounts of this organelle.",
+    "id": 3,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 1,
+    "front": "What is the retrograde vesicle coat that returns escaped ER-resident proteins from the Golgi back to the ER?",
+    "back": "COPI-coated vesicles, which recognize a carboxy-terminal KDEL retention sequence on the escaped protein.",
+    "id": 4,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 1,
+    "front": "Why is mitochondrial DNA inherited exclusively from the mother?",
+    "back": "Sperm mitochondria are typically destroyed after fertilization, so only the oocyte's mitochondria (and their DNA) persist in the zygote.",
+    "id": 5,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 1,
+    "front": "What is heteroplasmy?",
+    "back": "The presence of both mutant and wild-type mitochondrial DNA within the same cell, with the proportion varying between tissues and determining whether disease threshold is reached.",
+    "id": 6,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 1,
+    "front": "What peroxisomal function is lost in Zellweger syndrome, and what accumulates as a result?",
+    "back": "A defect in peroxisome assembly (PEX gene mutation) impairs very-long-chain fatty acid beta-oxidation, causing accumulation of very-long-chain fatty acids and severe neurologic impairment.",
+    "id": 7,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 1,
+    "front": "Which motor protein moves cargo toward the microtubule plus end, and which moves it toward the minus end?",
+    "back": "Kinesin moves cargo toward the plus end (generally the cell periphery); dynein moves cargo toward the minus end (generally the cell center).",
+    "id": 8,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 1,
+    "front": "What intermediate filament protein is used to identify astrocytic tumors on immunohistochemistry?",
+    "back": "Glial fibrillary acidic protein (GFAP).",
+    "id": 9,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 1,
+    "front": "What is the functional consequence of Rb being hypophosphorylated versus phosphorylated by cyclin D-CDK4/6?",
+    "back": "Hypophosphorylated Rb binds and inhibits E2F, blocking S phase entry; phosphorylation by cyclin D-CDK4/6 releases E2F, allowing the cell to proceed into S phase.",
+    "id": 10,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 1,
+    "front": "What enzyme cleaves cohesin to allow sister chromatid separation during anaphase?",
+    "back": "Separase.",
+    "id": 11,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 1,
+    "front": "During which meiotic division does crossing over occur, and what structure forms at the site of crossover?",
+    "back": "Crossing over occurs during prophase I of meiosis I, forming chiasmata between homologous chromosomes.",
+    "id": 12,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 1,
+    "front": "What enzyme relieves torsional strain ahead of the DNA replication fork?",
+    "back": "Topoisomerase.",
+    "id": 13,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 1,
+    "front": "Why do most somatic cells undergo progressive telomere shortening over successive divisions?",
+    "back": "Most somatic cells lack sufficient telomerase activity to fully replicate the very end of the lagging strand at each chromosome, unlike germ cells, stem cells, and many cancer cells.",
+    "id": 14,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 1,
+    "front": "What is the functional consequence of alternative splicing?",
+    "back": "It allows a single gene to encode multiple distinct protein isoforms by retaining different combinations of exons in the mature mRNA.",
+    "id": 15,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 1,
+    "front": "What genetic phenomenon explains why Huntington disease symptoms appear earlier and more severely in successive generations?",
+    "back": "Anticipation, caused by progressive expansion of a trinucleotide repeat with each transmission.",
+    "id": 16,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 1,
+    "front": "What laboratory technique uses fluorescently labeled DNA probes to detect chromosomal abnormalities directly within intact cells?",
+    "back": "Fluorescence in situ hybridization (FISH).",
+    "id": 17,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 2,
+    "front": "What cofactor does pyruvate carboxylase require, and what reaction does it catalyze in gluconeogenesis?",
+    "back": "Biotin; it converts pyruvate to oxaloacetate, bypassing the irreversible pyruvate kinase step of glycolysis.",
+    "id": 18,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 2,
+    "front": "Why can skeletal muscle not release free glucose into the bloodstream despite storing glycogen?",
+    "back": "Skeletal muscle lacks glucose-6-phosphatase, the enzyme required to convert glucose-6-phosphate to free glucose for export; only liver and kidney express this enzyme.",
+    "id": 19,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 2,
+    "front": "What is the functional consequence of alpha-ketoglutarate dehydrogenase requiring the same five cofactors as pyruvate dehydrogenase?",
+    "back": "Thiamine deficiency impairs both enzyme complexes simultaneously, contributing to lactic acidosis and the neurologic findings of Wernicke encephalopathy.",
+    "id": 20,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 2,
+    "front": "Why does each NADH yield more ATP than each FADH2 in oxidative phosphorylation?",
+    "back": "NADH donates electrons at Complex I, while FADH2 donates electrons further downstream at Complex II, bypassing some of the proton-pumping capacity of Complex I.",
+    "id": 21,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 2,
+    "front": "What is the physiologic role of thermogenin (UCP1) in brown adipose tissue?",
+    "back": "It uncouples electron transport from ATP synthesis by allowing protons to leak back across the inner mitochondrial membrane, releasing the dissipated energy as heat for nonshivering thermogenesis.",
+    "id": 22,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 2,
+    "front": "How are glycogen synthase and glycogen phosphorylase reciprocally regulated by insulin and glucagon?",
+    "back": "Insulin activates glycogen synthase and inhibits glycogen phosphorylase; glucagon and epinephrine do the opposite, ensuring synthesis and breakdown are not active simultaneously.",
+    "id": 23,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 2,
+    "front": "Why does Pompe disease uniquely cause severe cardiomegaly among the glycogen storage diseases?",
+    "back": "It results from deficiency of lysosomal acid alpha-glucosidase, a lysosomal storage disorder rather than a cytoplasmic glycogenolytic enzyme defect, with particular cardiac involvement.",
+    "id": 24,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 2,
+    "front": "What two purposes does the pentose phosphate pathway serve besides ATP generation?",
+    "back": "Generating NADPH for reductive biosynthesis and glutathione maintenance, and generating ribose-5-phosphate for nucleotide synthesis.",
+    "id": 25,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 2,
+    "front": "Why can the liver produce ketone bodies but not use them for its own energy needs?",
+    "back": "The liver lacks succinyl-CoA:3-ketoacid CoA transferase (thiophorase), the enzyme required to further metabolize ketone bodies.",
+    "id": 26,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 2,
+    "front": "What essential allosteric activator does carbamoyl phosphate synthetase I require in the urea cycle?",
+    "back": "N-acetylglutamate.",
+    "id": 27,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 2,
+    "front": "Why does alkaptonuria remain generally benign in childhood, unlike untreated phenylketonuria?",
+    "back": "Homogentisic acid accumulation from homogentisate oxidase deficiency deposits in cartilage and connective tissue slowly over decades, unlike phenylalanine accumulation, which impairs brain development acutely in infancy if untreated.",
+    "id": 28,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 2,
+    "front": "Why should thiamine be given before glucose in a patient with suspected Wernicke encephalopathy?",
+    "back": "Administering glucose first increases metabolic demand for thiamine-dependent enzymes, which can precipitate or worsen Wernicke encephalopathy in an already thiamine-depleted patient.",
+    "id": 29,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 2,
+    "front": "What is the biochemical basis for Hartnup disease causing a pellagra-like presentation?",
+    "back": "Hartnup disease impairs intestinal and renal absorption of tryptophan, a niacin precursor, reducing niacin availability.",
+    "id": 30,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 2,
+    "front": "Why does isolated folate supplementation in a B12-deficient patient pose a clinical risk?",
+    "back": "Folate can correct the megaloblastic anemia of B12 deficiency while allowing the underlying neurologic damage (subacute combined degeneration) to progress unrecognized.",
+    "id": 31,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 2,
+    "front": "What reaction does vitamin K enable in clotting factors II, VII, IX, and X?",
+    "back": "Gamma-carboxylation of glutamate residues, which is required for these factors to bind calcium and participate in coagulation.",
+    "id": 32,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 2,
+    "front": "What enzyme deficiency causes Lesch-Nyhan syndrome, and what is its inheritance pattern?",
+    "back": "Hypoxanthine-guanine phosphoribosyltransferase (HGPRT) deficiency, impairing purine salvage; inherited in an X-linked recessive pattern affecting boys.",
+    "id": 33,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 3,
+    "front": "Which toll-like receptor recognizes bacterial lipopolysaccharide?",
+    "back": "Toll-like receptor 4 (TLR4).",
+    "id": 34,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 3,
+    "front": "What is the 'missing self' hypothesis of natural killer cell activation?",
+    "back": "Healthy cells display MHC class I, which engages inhibitory receptors on natural killer cells; loss of class I expression (as by some virus-infected or tumor cells) removes this inhibition and triggers NK-mediated killing.",
+    "id": 35,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 3,
+    "front": "Which complement pathway is triggered directly by microbial surfaces without requiring antibody?",
+    "back": "The alternative pathway.",
+    "id": 36,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 3,
+    "front": "What clinical consequence results from deficiency of C1 esterase inhibitor?",
+    "back": "Hereditary angioedema, from unregulated activation of the classical complement pathway and the kinin system.",
+    "id": 37,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 3,
+    "front": "What cytokine drives Th17 differentiation together with TGF-beta, and what cytokine does Th17 secrete?",
+    "back": "Interleukin-6 drives Th17 differentiation together with TGF-beta; Th17 cells secrete interleukin-17.",
+    "id": 38,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 3,
+    "front": "What transcription factor marks regulatory T cells, and what syndrome results from its mutation?",
+    "back": "FOXP3; mutations cause IPEX syndrome (immune dysregulation, polyendocrinopathy, enteropathy, X-linked).",
+    "id": 39,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 3,
+    "front": "What two mechanisms do cytotoxic T cells use to kill target cells?",
+    "back": "Perforin and granzyme release, activating the target's apoptotic caspase cascade, and Fas ligand engaging Fas (CD95) on the target, directly triggering apoptosis.",
+    "id": 40,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 3,
+    "front": "Why do young children respond poorly to purely polysaccharide vaccines?",
+    "back": "Polysaccharide antigens activate B cells through a T cell-independent mechanism that generates a weaker response without effective class switching or memory formation, which young children rely on more heavily than adults.",
+    "id": 41,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 3,
+    "front": "Which immunoglobulin isotype is the most efficient at activating the classical complement pathway?",
+    "back": "IgM, due to its pentameric structure providing high avidity.",
+    "id": 42,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 3,
+    "front": "Which HLA class molecules present peptides from intracellular proteins, and to which T cell type?",
+    "back": "Class I HLA molecules present intracellular/cytosolic peptides to CD8-positive cytotoxic T cells.",
+    "id": 43,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 3,
+    "front": "Which HLA alleles are associated with celiac disease?",
+    "back": "HLA-DQ2 and HLA-DQ8.",
+    "id": 44,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 3,
+    "front": "In Graves disease, is the underlying mechanism type II hypersensitivity, and why is this notable?",
+    "back": "Yes; stimulating autoantibodies against the TSH receptor activate rather than destroy the target tissue, an exception to the usual destructive pattern of type II hypersensitivity.",
+    "id": 45,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 3,
+    "front": "What is the characteristic infection pattern in chronic granulomatous disease, and why?",
+    "back": "Recurrent infections with catalase-positive organisms (S. aureus, Aspergillus, Serratia), because these organisms degrade their own hydrogen peroxide, denying phagocytes an alternative oxidative source when NADPH oxidase is defective.",
+    "id": 46,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 3,
+    "front": "What mnemonic describes the features of DiGeorge syndrome, and what chromosomal deletion causes it?",
+    "back": "CATCH-22 (cardiac defects, abnormal facies, thymic aplasia, cleft palate, hypocalcemia); caused by a 22q11.2 microdeletion.",
+    "id": 47,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 3,
+    "front": "Why is selective IgA deficiency a risk factor for anaphylactic transfusion reactions?",
+    "back": "Some IgA-deficient patients develop anti-IgA antibodies, which can trigger anaphylaxis upon exposure to IgA in donor blood products.",
+    "id": 48,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 3,
+    "front": "What distinguishes hyperacute transplant rejection from acute rejection mechanistically?",
+    "back": "Hyperacute rejection is caused by preformed recipient antibody against donor antigens and is not preventable by immunosuppression, while acute rejection is primarily T cell-mediated and responsive to immunosuppressive therapy.",
+    "id": 49,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 4,
+    "front": "What determines whether an oral drug undergoes significant first-pass metabolism?",
+    "back": "The drug must pass through the intestinal wall and liver before reaching systemic circulation, where hepatic enzymes can metabolize a substantial fraction before it reaches systemic circulation.",
+    "id": 50,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 4,
+    "front": "Which drugs are classic examples of zero-order elimination kinetics?",
+    "back": "Ethanol, phenytoin, and aspirin at high or toxic doses.",
+    "id": 51,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 4,
+    "front": "What population tends to have relatively preserved phase II conjugation but reduced phase I cytochrome P450 activity?",
+    "back": "Elderly patients and neonates.",
+    "id": 52,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 4,
+    "front": "What is the clinical consequence of being a slow acetylator (NAT2) taking isoniazid or hydralazine?",
+    "back": "Higher risk of adverse effects, including isoniazid-induced peripheral neuropathy and hydralazine-induced drug-induced lupus.",
+    "id": 53,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 4,
+    "front": "Why does grapefruit juice increase the oral bioavailability of some drugs?",
+    "back": "It inhibits intestinal cytochrome P450 3A4, reducing first-pass metabolism of drugs normally subject to substantial 3A4-mediated breakdown.",
+    "id": 54,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 4,
+    "front": "How does a noncompetitive antagonist affect Emax and EC50 compared to a competitive antagonist?",
+    "back": "A noncompetitive antagonist reduces Emax without changing EC50/Km, while a competitive antagonist increases apparent EC50/Km without changing Emax.",
+    "id": 55,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 4,
+    "front": "Why can chronic agonist exposure lead to withdrawal symptoms upon abrupt discontinuation?",
+    "back": "Chronic agonist exposure produces receptor downregulation, leaving a reduced receptor population relatively understimulated by endogenous ligand once the exogenous agonist is removed.",
+    "id": 56,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 4,
+    "front": "Which muscarinic receptor subtype predominates in the heart, and what G-protein does it couple to?",
+    "back": "M2 receptors, which couple to Gi and slow heart rate by inhibiting adenylate cyclase.",
+    "id": 57,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 4,
+    "front": "What is the exception to the rule that postganglionic sympathetic neurons release norepinephrine?",
+    "back": "Sympathetic innervation of sweat glands, which uses acetylcholine acting on muscarinic receptors despite being anatomically sympathetic.",
+    "id": 58,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 4,
+    "front": "What second messenger pathway does Gq activate, and what are its two products?",
+    "back": "Gq activates phospholipase C, generating inositol trisphosphate (releases calcium from the ER) and diacylglycerol (activates protein kinase C).",
+    "id": 59,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 4,
+    "front": "Why are quaternary ammonium cholinesterase inhibitors like neostigmine used for myasthenia gravis rather than physostigmine?",
+    "back": "Neostigmine's charged quaternary structure prevents it from crossing the blood-brain barrier, limiting central side effects while still reversing peripheral neuromuscular weakness.",
+    "id": 60,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 4,
+    "front": "What is the mnemonic for anticholinergic toxidrome symptoms?",
+    "back": "Dry as a bone, red as a beet, hot as a hare, blind as a bat, mad as a hatter, full as a flask.",
+    "id": 61,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 4,
+    "front": "Why does epinephrine's net hemodynamic effect change with dose?",
+    "back": "At low doses beta receptor effects (vasodilation, increased cardiac output) predominate, while at high doses alpha-1-mediated vasoconstriction predominates, raising systemic vascular resistance.",
+    "id": 62,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 4,
+    "front": "What antidote reverses benzodiazepine overdose, and what risk does its use carry?",
+    "back": "Flumazenil, a competitive benzodiazepine receptor antagonist; it carries a risk of precipitating seizures in dependent patients or those who co-ingested a proconvulsant substance.",
+    "id": 63,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 4,
+    "front": "What toxic metabolites result from methanol and ethylene glycol metabolism by alcohol dehydrogenase?",
+    "back": "Formic acid from methanol and oxalic acid from ethylene glycol, the latter also causing calcium oxalate crystal deposition in renal tubules.",
+    "id": 64,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 5,
+    "front": "What is hydropic change, and what causes it?",
+    "back": "Early, reversible cellular and organelle swelling from Na+/K+-ATPase failure due to ATP depletion, allowing sodium and water to accumulate intracellularly.",
+    "id": 65,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 5,
+    "front": "What are myelin figures, and what do they indicate?",
+    "back": "Whorled phospholipid masses derived from damaged membranes, considered a marker of irreversible cell injury.",
+    "id": 66,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 5,
+    "front": "Why does reperfusion injury occur after restoring blood flow to ischemic tissue?",
+    "back": "Reintroduced oxygen generates reactive oxygen species in a cell with already-depleted antioxidant defenses, and infiltrating neutrophils release additional damaging enzymes.",
+    "id": 67,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 5,
+    "front": "What morphologic pattern of necrosis is unique to the brain among solid organ ischemic infarctions, and why?",
+    "back": "Liquefactive necrosis, reflecting the brain's high lipid content and abundant hydrolytic enzymes rather than the coagulative pattern seen elsewhere.",
+    "id": 68,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 5,
+    "front": "What physiologic processes rely on apoptosis during normal development?",
+    "back": "Digit separation through interdigital webbing apoptosis, negative selection of self-reactive T cells in the thymus, and hormone-dependent endometrial shedding during menstruation.",
+    "id": 69,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 5,
+    "front": "What translocation is associated with follicular lymphoma, and what does it cause?",
+    "back": "t(14;18), placing BCL2 under the immunoglobulin heavy chain enhancer, causing BCL2 overexpression that inhibits apoptosis and allows accumulation of long-lived B cells.",
+    "id": 70,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 5,
+    "front": "What distinguishes hypertrophy from hyperplasia?",
+    "back": "Hypertrophy is an increase in individual cell size without increased cell number (occurring in tissues with limited division capacity, like cardiac muscle); hyperplasia is an increase in cell number in tissues capable of division.",
+    "id": 71,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 5,
+    "front": "What is the classic example of pathologic metaplasia from chronic acid reflux, and what cell type replaces the original epithelium?",
+    "back": "Barrett esophagus, in which normal stratified squamous epithelium is replaced by intestinal-type columnar epithelium with goblet cells.",
+    "id": 72,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 5,
+    "front": "What is lipofuscin, and what does its accumulation indicate?",
+    "back": "A yellow-brown pigment from lipid peroxidation of membranes that accumulates in long-lived cells like cardiac myocytes and neurons, considered a marker of cellular aging and prior free radical damage.",
+    "id": 73,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 5,
+    "front": "What is the sequence of leukocyte adhesion events at a site of acute injury?",
+    "back": "Margination and rolling (selectin-mediated), firm adhesion (integrin-ICAM mediated), transmigration (diapedesis), and chemotaxis along a gradient of mediators like C5a and leukotriene B4.",
+    "id": 74,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 5,
+    "front": "What clinical findings characterize leukocyte adhesion deficiency?",
+    "back": "Recurrent bacterial infections, impaired wound healing, delayed umbilical cord separation, and a paradoxically elevated peripheral neutrophil count.",
+    "id": 75,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 5,
+    "front": "What distinguishes caseating from noncaseating granulomas, and give an example of each.",
+    "back": "Caseating granulomas contain central caseous necrosis (tuberculosis); noncaseating granulomas lack central necrosis (sarcoidosis, Crohn disease, foreign body reactions).",
+    "id": 76,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 5,
+    "front": "Why are patients on TNF-alpha inhibitors at increased risk of reactivating latent tuberculosis?",
+    "back": "Granuloma formation and maintenance depend heavily on TNF-alpha; suppressing this cytokine can cause granulomas containing dormant mycobacteria to break down.",
+    "id": 77,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 5,
+    "front": "What collagen type predominates in early granulation tissue, and what replaces it during remodeling?",
+    "back": "Type III collagen predominates initially and is replaced by the stronger type I collagen during the remodeling phase.",
+    "id": 78,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 5,
+    "front": "What distinguishes keloids from hypertrophic scars?",
+    "back": "Keloids extend beyond the original wound margins and tend to recur after excision, while hypertrophic scars remain confined to the wound boundaries and may partially regress.",
+    "id": 79,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 5,
+    "front": "What cofactor role does vitamin C play in collagen synthesis, and what deficiency syndrome results from its absence?",
+    "back": "Vitamin C is a required cofactor for hydroxylation of proline and lysine residues; its deficiency causes scurvy, with poor wound healing and gingival bleeding.",
+    "id": 80,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 5,
+    "front": "Why do permanent tissues like cardiac myocytes heal exclusively by fibrosis after injury?",
+    "back": "These cells have essentially exited the cell cycle terminally and cannot regenerate, so a myocardial infarction results in a permanent, noncontractile fibrous scar.",
+    "id": 81,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 2,
+    "front": "What accumulates in orotic aciduria, and why does it occur without hyperammonemia unlike ornithine transcarbamylase deficiency?",
+    "back": "Orotic acid accumulates from a downstream pyrimidine synthesis enzyme defect; unlike OTC deficiency, there is no urea cycle block, so ammonia is still cleared normally.",
+    "id": 82,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 3,
+    "front": "What costimulatory interaction is required for T cell-dependent B cell activation, and what syndrome results from its absence?",
+    "back": "CD40 ligand on the T cell engaging CD40 on the B cell; its absence (most commonly a CD40 ligand defect) causes hyper-IgM syndrome.",
+    "id": 83,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 4,
+    "front": "What is the difference in clinical use between drugs that induce versus inhibit cytochrome P450 enzymes in terms of onset?",
+    "back": "Inducers take days to weeks to act since they require new enzyme synthesis, while inhibitors act more rapidly since no new protein synthesis is required.",
+    "id": 84,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 4,
+    "front": "What antidote is used for acetaminophen overdose, and what is its mechanism?",
+    "back": "N-acetylcysteine, which repletes hepatic glutathione stores and may act as a direct glutathione substitute, preventing accumulation of the toxic reactive metabolite.",
+    "id": 85,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 6,
+    "front": "What structural feature distinguishes gram-positive from gram-negative peptidoglycan?",
+    "back": "Gram-positive peptidoglycan is thick (many cross-linked layers) with teichoic acid; gram-negative peptidoglycan is only one or two layers thick and lacks teichoic acid.",
+    "id": 86,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 6,
+    "front": "Why do asplenic patients face high risk from encapsulated organisms?",
+    "back": "The spleen is the principal site for phagocytic clearance of unopsonized encapsulated bacteria; without it, organisms like Streptococcus pneumoniae, Haemophilus influenzae type b, and Neisseria meningitidis can cause overwhelming sepsis.",
+    "id": 87,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 6,
+    "front": "What confers extreme heat and disinfectant resistance to bacterial endospores?",
+    "back": "Dipicolinic acid complexed with calcium within the spore core, which stabilizes DNA and proteins against heat and desiccation.",
+    "id": 88,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 6,
+    "front": "What is the mechanism of methicillin resistance in Staphylococcus aureus?",
+    "back": "The mecA gene encodes PBP2a, an altered penicillin-binding protein with markedly reduced affinity for beta-lactam antibiotics.",
+    "id": 89,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 6,
+    "front": "What laboratory tests distinguish Streptococcus pneumoniae from viridans streptococci?",
+    "back": "Both are alpha-hemolytic, but S. pneumoniae is optochin-sensitive and bile-soluble, while viridans streptococci are optochin-resistant.",
+    "id": 90,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 6,
+    "front": "What is the role of protective antigen in Bacillus anthracis toxin?",
+    "back": "Protective antigen binds host cell receptors and mediates entry of edema factor and lethal factor into the cell, forming the tripartite anthrax toxin.",
+    "id": 91,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 6,
+    "front": "How does Listeria monocytogenes spread between host cells?",
+    "back": "It polymerizes host actin into a comet tail that propels the bacterium directly into adjacent cells, avoiding extracellular antibody exposure.",
+    "id": 92,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 6,
+    "front": "What toxin mechanism underlies pseudomembranous colitis from Clostridioides difficile?",
+    "back": "Toxins A and B are glucosyltransferases that inactivate Rho family GTPases, disrupting the colonic epithelial actin cytoskeleton.",
+    "id": 93,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 6,
+    "front": "What fermentation pattern distinguishes Neisseria meningitidis from Neisseria gonorrhoeae?",
+    "back": "N. meningitidis ferments both glucose and maltose; N. gonorrhoeae ferments only glucose.",
+    "id": 94,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 6,
+    "front": "What is the mechanism behind hemolytic uremic syndrome from enterohemorrhagic E. coli?",
+    "back": "Shiga-like toxin inactivates the 60S ribosomal subunit; antibiotic-induced bacterial lysis can release more toxin and worsen the syndrome.",
+    "id": 95,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 6,
+    "front": "Why does Pseudomonas aeruginosa cause chronic infection in cystic fibrosis?",
+    "back": "It forms a protective biofilm within thickened airway secretions that shields it from antibiotics and host immune clearance.",
+    "id": 96,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 6,
+    "front": "What clinical triad results from congenital syphilis?",
+    "back": "Findings can include saddle nose deformity, saber shins, and Hutchinson teeth, among other stigmata of transplacental Treponema pallidum infection.",
+    "id": 97,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 6,
+    "front": "Why is Mycoplasma pneumoniae intrinsically resistant to all beta-lactam antibiotics?",
+    "back": "It lacks a cell wall entirely, so drugs that inhibit peptidoglycan cross-linking have no target.",
+    "id": 98,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 6,
+    "front": "What is the biphasic life cycle of Chlamydia trachomatis?",
+    "back": "The infectious, metabolically inactive elementary body enters cells and converts to the metabolically active reticulate body, which replicates before reorganizing back into elementary bodies.",
+    "id": 99,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 6,
+    "front": "What explains the apical predominance of reactivation tuberculosis?",
+    "back": "Mycobacterium tuberculosis is an obligate aerobe, and the lung apex has the highest oxygen tension of any lung region.",
+    "id": 100,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 6,
+    "front": "How do sulfonamides and trimethoprim act synergistically?",
+    "back": "Sulfonamides inhibit dihydropteroate synthase and trimethoprim inhibits dihydrofolate reductase, blocking sequential steps in bacterial folate synthesis.",
+    "id": 101,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 6,
+    "front": "What enzyme do fluoroquinolones inhibit, and what process does this block?",
+    "back": "DNA gyrase and topoisomerase IV, enzymes required to relieve DNA supercoiling during replication.",
+    "id": 102,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 7,
+    "front": "Why can positive-sense RNA genomes be infectious on their own, unlike negative-sense genomes?",
+    "back": "Positive-sense RNA functions directly as messenger RNA and can be translated immediately by host ribosomes; negative-sense RNA must first be transcribed by a virion-packaged RNA-dependent RNA polymerase.",
+    "id": 103,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 7,
+    "front": "Why are enveloped viruses generally more susceptible to disinfectants than nonenveloped viruses?",
+    "back": "Their infectivity depends on an intact lipid envelope, which is readily disrupted by detergents, alcohol, heat, and desiccation.",
+    "id": 104,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 7,
+    "front": "What malignancy is endemic Burkitt lymphoma associated with, and what translocation drives it?",
+    "back": "Epstein-Barr virus infection, with a t(8;14) translocation placing MYC under the immunoglobulin heavy chain promoter.",
+    "id": 105,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 7,
+    "front": "What is the classic congenital cytomegalovirus triad-like presentation?",
+    "back": "Sensorineural hearing loss, periventricular calcifications, and hepatosplenomegaly.",
+    "id": 106,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 7,
+    "front": "What oncoproteins do high-risk HPV types produce, and what do they target?",
+    "back": "E6 degrades p53 and E7 degrades the retinoblastoma protein, removing two key tumor suppressor checkpoints.",
+    "id": 107,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 7,
+    "front": "What population is most at risk for severe disease from parvovirus B19?",
+    "back": "Patients with chronic hemolytic anemia (such as sickle cell disease) are at risk for transient aplastic crisis; pregnant patients risk fetal hydrops.",
+    "id": 108,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 7,
+    "front": "What genome feature of influenza allows antigenic shift?",
+    "back": "Its segmented negative-sense RNA genome allows whole-segment reassortment when two strains co-infect a single cell.",
+    "id": 109,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 7,
+    "front": "Why does measles have an unusually high basic reproduction number?",
+    "back": "It is among the most contagious viruses known to infect humans, spreading efficiently via the respiratory route before the classic rash even appears.",
+    "id": 110,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 7,
+    "front": "What receptor and coreceptors does HIV use to enter host cells?",
+    "back": "gp120 binds CD4 plus a chemokine coreceptor (CCR5 or CXCR4), and gp41 then mediates membrane fusion.",
+    "id": 111,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 7,
+    "front": "Why does the long, variable incubation period of rabies matter clinically?",
+    "back": "It reflects the time needed for retrograde axonal transport from the bite site to the CNS, providing a window during which post-exposure prophylaxis remains effective.",
+    "id": 112,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 7,
+    "front": "What receptor does the SARS-CoV-2 spike protein bind for cell entry?",
+    "back": "Angiotensin-converting enzyme 2 (ACE2).",
+    "id": 113,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 7,
+    "front": "What morphologic feature distinguishes Aspergillus hyphae from Mucorales hyphae?",
+    "back": "Aspergillus forms septate hyphae branching at acute (45-degree) angles; Mucorales forms broad, ribbon-like, nonseptate hyphae with wide-angle branching.",
+    "id": 114,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 7,
+    "front": "What laboratory finding confirms Cryptococcus neoformans infection on India ink preparation?",
+    "back": "A clear halo surrounding the yeast, corresponding to its polysaccharide capsule.",
+    "id": 115,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 7,
+    "front": "What morphologic form does Coccidioides immitis take within host tissue?",
+    "back": "Large spherules filled with endospores, distinct from the budding yeast forms of the other dimorphic fungi.",
+    "id": 116,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 7,
+    "front": "How is Sporothrix schenckii classically acquired, and what pattern of disease results?",
+    "back": "Direct skin inoculation, classically from a rose thorn, producing ascending nodular lymphangitic skin lesions.",
+    "id": 117,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 7,
+    "front": "Why does Plasmodium falciparum cause more severe disease than P. vivax or P. ovale?",
+    "back": "It can infect red blood cells of all ages rather than being restricted to reticulocytes or older erythrocytes, allowing much higher parasitemia.",
+    "id": 118,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 7,
+    "front": "What hepatic complication can Entamoeba histolytica cause?",
+    "back": "An amebic liver abscess with characteristic anchovy paste-colored contents, reached via hematogenous spread through the portal circulation.",
+    "id": 119,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 8,
+    "front": "What embryologic structure gives rise to the smooth-walled portion of the right atrium?",
+    "back": "The sinus venosus, incorporated as the sinus venarum; the crista terminalis marks its junction with the trabeculated primitive atrium-derived portion.",
+    "id": 120,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 8,
+    "front": "What anatomic feature explains why the ductus arteriosus normally connects to the descending aorta?",
+    "back": "It arises from the sixth aortic arch and provides a low-resistance path directing right ventricular output away from the fluid-filled fetal lungs.",
+    "id": 121,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 8,
+    "front": "What is the fibrous skeleton of the heart, and what is its electrical function?",
+    "back": "A ring of dense connective tissue supporting the valves that also electrically insulates the atria from the ventricles, forcing all conduction through the AV node.",
+    "id": 122,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 8,
+    "front": "Why do papillary muscles contract during ventricular systole?",
+    "back": "To prevent prolapse of the atrioventricular valve leaflets back into the atria under high ventricular pressure.",
+    "id": 123,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 8,
+    "front": "What ion channel generates the pacemaker action potential upstroke, and how does this differ from working myocardium?",
+    "back": "Voltage-gated calcium channels generate the pacemaker upstroke, whereas fast sodium channels generate the upstroke in working myocardial cells.",
+    "id": 124,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 8,
+    "front": "What current drives spontaneous phase 4 depolarization in pacemaker cells?",
+    "back": "The funny current, carried through hyperpolarization-activated cyclic nucleotide-gated channels.",
+    "id": 125,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 8,
+    "front": "Why is the ST segment normally isoelectric on the ECG?",
+    "back": "It corresponds to the plateau phase, when the entire ventricle is depolarized and no net potential difference is generated.",
+    "id": 126,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 8,
+    "front": "What is the physiologic basis of the Frank-Starling mechanism?",
+    "back": "Stretching sarcomeres toward optimal length increases actin-myosin cross-bridge formation and calcium sensitivity of the contractile apparatus, independent of any change in intrinsic contractility.",
+    "id": 127,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 8,
+    "front": "What defines the isovolumetric contraction phase of the cardiac cycle?",
+    "back": "Both the mitral and aortic valves are closed while ventricular pressure rises rapidly at constant volume.",
+    "id": 128,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 8,
+    "front": "How does Poiseuille's law explain why arterioles dominate vascular resistance regulation?",
+    "back": "Resistance is inversely proportional to the fourth power of radius, so small changes in arteriolar diameter from smooth muscle tone produce large changes in resistance.",
+    "id": 129,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 8,
+    "front": "Why do the kidney and brain rely heavily on myogenic autoregulation?",
+    "back": "It keeps organ blood flow relatively constant across a range of perfusion pressures, protecting the kidney's glomerular filtration rate and the brain from pressure-driven flow swings.",
+    "id": 130,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 8,
+    "front": "Why does the venous system function as the body's primary blood reservoir?",
+    "back": "It is far more compliant than the arterial system, accommodating a much larger blood volume for a given pressure increase.",
+    "id": 131,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 8,
+    "front": "What happens to net fluid movement along the length of a normal capillary?",
+    "back": "Net filtration occurs at the arteriolar end, where hydrostatic pressure is highest, and net reabsorption occurs at the venular end, where hydrostatic pressure has fallen.",
+    "id": 132,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 8,
+    "front": "What afferent nerves carry baroreceptor signals from the carotid sinus and aortic arch?",
+    "back": "The glossopharyngeal nerve from the carotid sinus and the vagus nerve from the aortic arch, both projecting to the nucleus tractus solitarius.",
+    "id": 133,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 8,
+    "front": "What determines whether left ventricular wall is thicker than the right ventricular wall?",
+    "back": "The left ventricle generates much higher afterload to overcome systemic vascular resistance, compared with the lower-resistance pulmonary circulation the right ventricle supplies.",
+    "id": 134,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 8,
+    "front": "What area of the pressure-volume loop represents external stroke work?",
+    "back": "The total area enclosed by the loop; the width along the volume axis represents stroke volume.",
+    "id": 135,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 8,
+    "front": "Why does tachycardia reduce time available for coronary perfusion of the left ventricle?",
+    "back": "Coronary perfusion of the left ventricle occurs predominantly during diastole, and tachycardia shortens diastole disproportionately more than systole.",
+    "id": 136,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 9,
+    "front": "What determines whether an atherosclerotic plaque is 'stable' versus 'vulnerable'?",
+    "back": "Fibrous cap thickness and lipid core size, not overall plaque size or degree of luminal stenosis; a thin cap over a large lipid core is prone to sudden rupture.",
+    "id": 137,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 9,
+    "front": "What distinguishes unstable angina from non-ST-elevation myocardial infarction?",
+    "back": "Whether measurable myocardial necrosis (elevated troponin) has occurred; unstable angina involves ischemia without detectable myocyte death.",
+    "id": 138,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 9,
+    "front": "Why is troponin preferred over creatine kinase-MB for diagnosing myocardial infarction?",
+    "back": "Troponin is more sensitive and specific and remains elevated for days, though CK-MB's faster rise and fall can help detect reinfarction shortly after an initial event.",
+    "id": 139,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 9,
+    "front": "What is the mechanistic basis of Dressler syndrome?",
+    "back": "An autoimmune pericarditis occurring weeks to months post-infarction, thought to result from an immune response against antigens exposed during myocardial necrosis.",
+    "id": 140,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 9,
+    "front": "Why does chronic sympathetic activation eventually worsen heart failure despite initially compensating for it?",
+    "back": "Chronic activation downregulates and desensitizes cardiac beta-1 receptors, worsening contractile function and increasing arrhythmia risk over time.",
+    "id": 141,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 9,
+    "front": "What remodeling pattern does aortic stenosis produce, and why?",
+    "back": "Concentric hypertrophy, from chronic pressure overload forcing the ventricle to add sarcomeres in parallel to generate higher systolic pressure.",
+    "id": 142,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 9,
+    "front": "What remodeling pattern does chronic mitral regurgitation produce, and why?",
+    "back": "Eccentric hypertrophy, from chronic volume overload causing sarcomeres to be added in series, dilating the chamber.",
+    "id": 143,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 9,
+    "front": "Why does mitral stenosis predispose strongly to stroke?",
+    "back": "Chronic left atrial dilation from elevated pressure predisposes to atrial fibrillation and left atrial thrombus formation, risking systemic embolization.",
+    "id": 144,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 9,
+    "front": "What is the pathophysiologic sequence underlying Eisenmenger syndrome?",
+    "back": "A large left-to-right shunt causes chronic pulmonary overcirculation, driving progressive pulmonary vascular remodeling until pulmonary pressure exceeds systemic pressure and the shunt reverses to right-to-left.",
+    "id": 145,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 9,
+    "front": "What determines the degree of cyanosis in tetralogy of Fallot?",
+    "back": "The severity of pulmonic stenosis, which determines how much deoxygenated right ventricular blood is shunted through the overriding aorta rather than into the pulmonary circulation.",
+    "id": 146,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 9,
+    "front": "What genetic syndrome and valve abnormality are classically associated with coarctation of the aorta?",
+    "back": "Turner syndrome and bicuspid aortic valve.",
+    "id": 147,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 9,
+    "front": "Why does hypertrophic cardiomyopathy murmur worsen with standing or Valsalva?",
+    "back": "Decreased ventricular preload reduces chamber volume, bringing the hypertrophied septum closer to the mitral leaflet and worsening dynamic outflow obstruction.",
+    "id": 148,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 9,
+    "front": "What condition closely mimics restrictive cardiomyopathy hemodynamically, and how are they distinguished?",
+    "back": "Constrictive pericarditis; both produce elevated, equalized diastolic pressures across all chambers, often requiring advanced imaging or invasive hemodynamics to distinguish.",
+    "id": 149,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 9,
+    "front": "What infection is polyarteritis nodosa classically associated with?",
+    "back": "Chronic hepatitis B infection.",
+    "id": 150,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 9,
+    "front": "What autoantibody is associated with granulomatosis with polyangiitis?",
+    "back": "Cytoplasmic antineutrophil cytoplasmic antibodies (c-ANCA) directed against proteinase 3.",
+    "id": 151,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 9,
+    "front": "Why does ACE inhibitor use cause a dry cough in some patients?",
+    "back": "ACE also degrades bradykinin; inhibiting the enzyme allows bradykinin to accumulate, producing cough and, rarely, angioedema.",
+    "id": 152,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 9,
+    "front": "How do dihydropyridine and nondihydropyridine calcium channel blockers differ in selectivity?",
+    "back": "Dihydropyridines act predominantly on peripheral vascular smooth muscle; nondihydropyridines (verapamil, diltiazem) also meaningfully slow SA and AV nodal conduction.",
+    "id": 153,
+    "domain": "cardiovascular"
+  },
+  {
+    "chapter": 10,
+    "front": "What is anatomic dead space, and why does it not participate in gas exchange?",
+    "back": "The volume of air within the conducting airways (about 150 mL in an adult), which lack alveoli and therefore cannot exchange gas regardless of breath depth.",
+    "id": 154,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 10,
+    "front": "Why does the right main bronchus preferentially receive aspirated material?",
+    "back": "It is shorter, wider, and more vertically oriented than the left main bronchus.",
+    "id": 155,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 10,
+    "front": "Why can type I pneumocyte injury not be repaired directly by type I cell division?",
+    "back": "Type I pneumocytes are terminally differentiated and cannot divide; repair depends on type II pneumocyte proliferation and differentiation.",
+    "id": 156,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 10,
+    "front": "What established the resting position of the respiratory system at end-expiration?",
+    "back": "The point at which the lung's inward elastic recoil exactly balances the chest wall's outward elastic recoil, defining functional residual capacity.",
+    "id": 157,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 10,
+    "front": "Why is the FEV1/FVC ratio typically normal in restrictive lung disease?",
+    "back": "Both FEV1 and FVC fall roughly proportionately since the underlying problem is reduced total lung capacity, not increased airway resistance.",
+    "id": 158,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 10,
+    "front": "What is the law of Laplace's relevance to alveolar stability without surfactant?",
+    "back": "Pressure needed to keep a sphere open is proportional to surface tension and inversely proportional to radius, so without surfactant, smaller alveoli would generate higher pressure and collapse into larger ones.",
+    "id": 159,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 10,
+    "front": "Why are antenatal corticosteroids given in anticipated preterm labor?",
+    "back": "Glucocorticoids accelerate fetal type II pneumocyte maturation and surfactant production, reducing risk of neonatal respiratory distress syndrome.",
+    "id": 160,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 10,
+    "front": "How does rapid, shallow breathing reduce effective alveolar ventilation despite unchanged minute ventilation?",
+    "back": "Anatomic dead space is fixed regardless of tidal volume, so it consumes a proportionately larger fraction of each smaller breath, reducing fresh air reaching the alveoli.",
+    "id": 161,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 10,
+    "front": "What distinguishes hypoxic pulmonary vasoconstriction from the systemic circulation's response to hypoxia?",
+    "back": "Pulmonary vessels constrict in response to local hypoxia (redirecting flow to better-ventilated areas), while systemic vessels dilate in response to local hypoxia.",
+    "id": 162,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 10,
+    "front": "Why does fetal hemoglobin have higher oxygen affinity than adult hemoglobin?",
+    "back": "Its gamma subunits bind 2,3-bisphosphoglycerate less avidly than adult beta subunits, facilitating oxygen transfer from maternal to fetal blood.",
+    "id": 163,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 10,
+    "front": "What is the Bohr effect?",
+    "back": "The rightward shift of the oxygen-hemoglobin dissociation curve produced specifically by decreased pH and increased carbon dioxide, enhancing oxygen unloading in metabolically active tissue.",
+    "id": 164,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 10,
+    "front": "Why do peripheral chemoreceptors become the dominant ventilatory drive in chronic CO2 retention?",
+    "back": "Renal compensation normalizes cerebrospinal fluid pH despite chronic hypercapnia, blunting central chemoreceptor drive and leaving hypoxia-sensing peripheral chemoreceptors as the main stimulus.",
+    "id": 165,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 10,
+    "front": "What is the pathophysiologic basis of emphysema's airflow obstruction?",
+    "back": "Unopposed neutrophil elastase destroys alveolar elastin, reducing lung elastic recoil so small airways collapse prematurely during expiration.",
+    "id": 166,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 10,
+    "front": "What distinguishes alpha-1 antitrypsin deficiency emphysema from smoking-related emphysema anatomically?",
+    "back": "Alpha-1 antitrypsin deficiency causes panacinar emphysema with lower lobe predominance; smoking-related emphysema is centriacinar and upper lobe predominant.",
+    "id": 167,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 10,
+    "front": "Why does asbestos exposure combined with smoking dramatically increase lung cancer risk?",
+    "back": "The two exposures interact synergistically, producing a multiplicative rather than merely additive increase in bronchogenic carcinoma risk.",
+    "id": 168,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 10,
+    "front": "What histologic hallmark characterizes acute respiratory distress syndrome?",
+    "back": "Hyaline membranes lining damaged alveoli, reflecting diffuse alveolar damage and increased alveolar-capillary permeability.",
+    "id": 169,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 10,
+    "front": "Why is needle decompression performed for tension pneumothorax without waiting for imaging?",
+    "back": "The progressively accumulating positive intrathoracic pressure compresses the mediastinum and impairs venous return, causing rapid, life-threatening cardiovascular collapse if treatment is delayed.",
+    "id": 170,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 11,
+    "front": "What is the embryologic origin of the ureteric bud, and what structures does it form?",
+    "back": "It is an outgrowth of the mesonephric (wolffian) duct, and it forms the collecting duct system, calyces, renal pelvis, and ureter.",
+    "id": 171,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 11,
+    "front": "Why does a horseshoe kidney become arrested in an abnormally low position during ascent?",
+    "back": "The fused isthmus of the two kidneys becomes trapped beneath the inferior mesenteric artery as it ascends, arresting the kidney around L4.",
+    "id": 172,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 11,
+    "front": "What type IV collagen defect causes Alport syndrome, and what is its classic triad?",
+    "back": "Mutations in genes encoding type IV collagen (most often COL4A5, X-linked) disrupt the glomerular basement membrane, causing hematuria, sensorineural hearing loss, and ocular abnormalities.",
+    "id": 173,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 11,
+    "front": "What is the transport maximum concept, and how does it explain glucosuria in diabetes?",
+    "back": "Transport maximum is the saturable upper limit of a carrier-mediated reabsorptive process; once filtered glucose exceeds SGLT2/SGLT1 capacity, glucose appears in urine, as occurs when hyperglycemia overwhelms proximal reabsorption.",
+    "id": 174,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 11,
+    "front": "How does aldosterone increase both sodium reabsorption and potassium/hydrogen secretion in the collecting duct?",
+    "back": "Aldosterone upregulates ENaC on principal cells, and the resulting lumen-negative gradient from sodium reabsorption favors passive secretion of both potassium (principal cells) and hydrogen ions (intercalated cells).",
+    "id": 175,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 11,
+    "front": "What effect does furosemide have on the countercurrent multiplication system?",
+    "back": "By blocking NKCC2 in the thick ascending limb, furosemide prevents solute reabsorption without water, disrupting the medullary hypertonic gradient and impairing maximal urinary concentration.",
+    "id": 176,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 11,
+    "front": "What is the functional consequence of losing nephrin at the podocyte slit diaphragm?",
+    "back": "Loss of nephrin disrupts slit diaphragm integrity, causing massive proteinuria, as seen in congenital nephrotic syndrome of the Finnish type.",
+    "id": 177,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 11,
+    "front": "Why does chronic kidney disease commonly cause a normocytic anemia?",
+    "back": "Peritubular fibroblast-like cells in the renal cortex produce less erythropoietin as functional renal mass declines, reducing stimulation of erythroid progenitors in bone marrow.",
+    "id": 178,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 11,
+    "front": "What is the mechanism connecting hyperparathyroidism to both hypercalcemia and hypophosphatemia?",
+    "back": "Parathyroid hormone increases bone resorption and distal tubular calcium reabsorption while decreasing proximal tubular phosphate reabsorption, raising calcium and lowering phosphate simultaneously.",
+    "id": 179,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 11,
+    "front": "What anatomic relationship places the ureter at risk during hysterectomy?",
+    "back": "The ureter passes inferior to the uterine artery near the lateral cervix, summarized as 'water under the bridge,' making it vulnerable during uterine artery ligation.",
+    "id": 180,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 11,
+    "front": "What organism classically causes struvite kidney stones, and by what mechanism?",
+    "back": "Proteus mirabilis, a urease-producing organism, hydrolyzes urea to ammonia, raising urinary pH and promoting magnesium ammonium phosphate crystallization, sometimes forming a staghorn calculus.",
+    "id": 181,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 11,
+    "front": "What genetic defect underlies cystinuria, and what type of crystal does it produce?",
+    "back": "An autosomal recessive defect in the renal tubular transporter for dibasic amino acids (cystine, ornithine, lysine, arginine) causes hexagonal crystals on urinalysis.",
+    "id": 182,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 11,
+    "front": "What is the functional significance of the macula densa sensing low sodium chloride delivery?",
+    "back": "Low distal sodium chloride delivery signals reduced GFR or perfusion, prompting afferent arteriolar dilation and renin release to help restore GFR.",
+    "id": 183,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 11,
+    "front": "Why do berry aneurysms occur more frequently in autosomal dominant polycystic kidney disease?",
+    "back": "Polycystin dysfunction is thought to affect vascular smooth muscle and connective tissue integrity, predisposing to berry aneurysms of the circle of Willis and subarachnoid hemorrhage risk.",
+    "id": 184,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 11,
+    "front": "What is the most common extrarenal manifestation of autosomal dominant polycystic kidney disease?",
+    "back": "Hepatic cysts are the most common extrarenal manifestation, though berry aneurysms and mitral valve prolapse are also characteristic associations.",
+    "id": 185,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 11,
+    "front": "What is the mechanism of compensatory hyperfiltration injury after nephron loss?",
+    "back": "Surviving nephrons increase single-nephron GFR to compensate for lost nephrons, but the resulting elevated intraglomerular pressure causes glomerulosclerosis, perpetuating further nephron loss.",
+    "id": 186,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 11,
+    "front": "Why are ACE inhibitors considered renoprotective independent of blood pressure lowering?",
+    "back": "By preferentially dilating the efferent arteriole, they reduce intraglomerular capillary pressure, slowing hyperfiltration-mediated glomerulosclerosis, particularly beneficial in diabetic nephropathy.",
+    "id": 187,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 12,
+    "front": "Why is the bicarbonate buffer system considered an open buffer system?",
+    "back": "Because both of its components, PaCO2 (controlled by the lungs) and bicarbonate (controlled by the kidneys), are independently and continuously regulated, giving it effectively unlimited buffering capacity.",
+    "id": 188,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 12,
+    "front": "What does an unexpectedly normalized or overcorrected pH suggest during evaluation of a primary acid-base disturbance?",
+    "back": "It suggests a second, independent primary disorder is present, since physiologic compensation never fully normalizes pH or overshoots into the opposite direction.",
+    "id": 189,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 12,
+    "front": "What does the anion gap represent physiologically under normal conditions?",
+    "back": "It represents unmeasured anions, chiefly plasma proteins such as albumin, that are not captured by the standard sodium, chloride, and bicarbonate measurements.",
+    "id": 190,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 12,
+    "front": "Why does type 4 renal tubular acidosis cause hyperkalemia in addition to acidosis?",
+    "back": "Aldosterone deficiency or resistance impairs both hydrogen and potassium secretion in the collecting duct, and the resulting hyperkalemia further impairs proximal tubular ammoniagenesis, worsening the acid-excretion defect.",
+    "id": 191,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 12,
+    "front": "What urinary finding distinguishes type 1 (distal) renal tubular acidosis from a normal acid-base response?",
+    "back": "Urine pH remains inappropriately above 5.5 despite systemic acidosis, because alpha-intercalated cells cannot secrete hydrogen ions.",
+    "id": 192,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 12,
+    "front": "Why does volume repletion with chloride-containing fluid correct chloride-responsive metabolic alkalosis?",
+    "back": "Administered chloride allows the kidney to reabsorb filtered sodium with chloride instead of bicarbonate, permitting the excess bicarbonate to finally be excreted in urine.",
+    "id": 193,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 12,
+    "front": "Why does salicylate toxicity classically produce an early respiratory alkalosis?",
+    "back": "Salicylates directly stimulate the medullary respiratory center, driving hyperventilation before the later superimposed metabolic acidosis from salicylate's own acidic properties develops.",
+    "id": 194,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 12,
+    "front": "How much does serum sodium fall for every 100 mg/dL rise in glucose above normal, and why?",
+    "back": "Roughly 1.6 to 2.4 mEq/L, because osmotically active glucose draws water into the extracellular space, diluting sodium concentration (translocational hyponatremia).",
+    "id": 195,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 12,
+    "front": "What is the mechanistic basis of osmotic demyelination syndrome after overly rapid correction of chronic hyponatremia?",
+    "back": "Brain cells adapted to chronic hypotonicity by extruding intracellular osmoles cannot re-accumulate them quickly enough, causing cellular shrinkage and myelin injury with rapid correction.",
+    "id": 196,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 12,
+    "front": "How does the water deprivation test with desmopressin distinguish central from nephrogenic diabetes insipidus?",
+    "back": "Desmopressin increases urine osmolality in central diabetes insipidus (hormone deficiency corrected by exogenous ADH) but fails to do so in nephrogenic diabetes insipidus (renal resistance to ADH).",
+    "id": 197,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 12,
+    "front": "Why is intravenous calcium given first in severe hyperkalemia with ECG changes?",
+    "back": "Calcium stabilizes the cardiac membrane potential relative to threshold, protecting against arrhythmia, without itself lowering serum potassium concentration.",
+    "id": 198,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 12,
+    "front": "Why does hypokalemia potentiate digoxin toxicity?",
+    "back": "Hypokalemia increases digoxin binding to the Na+/K+-ATPase, since digoxin and potassium compete for the same binding site, enhancing digoxin's effect and toxicity risk.",
+    "id": 199,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 12,
+    "front": "Why does acute alkalosis produce tetany-like symptoms even when total serum calcium is normal?",
+    "back": "Alkalosis increases albumin's binding affinity for calcium, lowering ionized (biologically active) calcium despite an unchanged total calcium level.",
+    "id": 200,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 12,
+    "front": "What is the mnemonic for causes of humoral hypercalcemia symptoms, and what does it stand for?",
+    "back": "Bones, stones, abdominal groans, and psychiatric overtones, representing bone pain, nephrolithiasis, gastrointestinal symptoms, and confusion or depression.",
+    "id": 201,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 12,
+    "front": "Why does refractory hypokalemia sometimes fail to correct with potassium repletion alone?",
+    "back": "Coexisting hypomagnesemia impairs renal potassium conservation, so magnesium must also be repleted before potassium levels will stabilize.",
+    "id": 202,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 12,
+    "front": "What is FGF-23, and what two effects does it have on phosphate and vitamin D handling?",
+    "back": "FGF-23, secreted by osteocytes, promotes phosphaturia by reducing proximal sodium-phosphate cotransporter expression and suppresses 1-alpha-hydroxylase activity, lowering calcitriol production.",
+    "id": 203,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 12,
+    "front": "What laboratory finding helps exclude toxic alcohol ingestion in a patient with severe unexplained anion gap metabolic acidosis?",
+    "back": "A normal osmolar gap argues against toxic alcohol ingestion and redirects the differential toward other high anion gap causes such as lactic acidosis or diabetic ketoacidosis.",
+    "id": 204,
+    "domain": "respiratory_renal"
+  },
+  {
+    "chapter": 13,
+    "front": "What are the three embryologic gut segments, and what artery supplies each?",
+    "back": "Foregut (celiac trunk), midgut (superior mesenteric artery), and hindgut (inferior mesenteric artery), each giving rise to a predictable set of adult gastrointestinal organs.",
+    "id": 205,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 13,
+    "front": "What is the rule of twos for Meckel diverticulum?",
+    "back": "Occurs in about two percent of the population, located within two feet of the ileocecal valve, roughly two inches long, often contains two types of ectopic tissue, and usually presents by age two.",
+    "id": 206,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 13,
+    "front": "How does esophageal muscularis composition change along its length?",
+    "back": "The upper third is skeletal muscle, the middle third is mixed skeletal and smooth muscle, and the lower third is entirely smooth muscle.",
+    "id": 207,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 13,
+    "front": "What is the difference between primary and secondary esophageal peristalsis?",
+    "back": "Primary peristalsis is the coordinated wave triggered by swallowing, while secondary peristalsis is triggered locally by esophageal distension itself, independent of a preceding swallow.",
+    "id": 208,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 13,
+    "front": "Why does somatostatin from antral D cells inhibit acid secretion?",
+    "back": "Released in response to luminal acid, somatostatin inhibits gastrin release from G cells and also directly inhibits parietal cell acid secretion, forming a negative feedback loop.",
+    "id": 209,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 13,
+    "front": "What is the mechanistic basis for NSAID-associated peptic ulceration?",
+    "back": "NSAIDs inhibit cyclooxygenase and prostaglandin E2 synthesis, reducing mucus and bicarbonate secretion and mucosal blood flow, weakening the stomach's defensive barrier.",
+    "id": 210,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 13,
+    "front": "Why do liquids empty from the stomach faster than solids?",
+    "back": "Liquid emptying depends mainly on the pressure gradient between stomach and duodenum, while solids must first be ground to roughly one to two millimeters before passing the pylorus.",
+    "id": 211,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 13,
+    "front": "What hormone drives the migrating motor complex, and what is its function?",
+    "back": "Motilin drives cyclic peristaltic activity during fasting, sweeping undigested debris and bacteria from the stomach and small intestine toward the colon.",
+    "id": 212,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 13,
+    "front": "Why are chylomicrons absorbed into lacteals rather than blood capillaries within intestinal villi?",
+    "back": "Chylomicrons are too large to enter the fenestrated blood capillaries, so they instead enter the larger lymphatic lacteals before reaching systemic circulation via the thoracic duct.",
+    "id": 213,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 13,
+    "front": "What is the difference in sodium dependence between SGLT1 and GLUT5?",
+    "back": "SGLT1 absorbs glucose and galactose via sodium-dependent secondary active transport, while GLUT5 absorbs fructose via sodium-independent facilitated diffusion.",
+    "id": 214,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 13,
+    "front": "What enzyme activates the pancreatic protease cascade, and what activates that enzyme?",
+    "back": "Trypsin activates the cascade by converting other zymogens to active proteases; trypsin itself is activated from trypsinogen by brush border enterokinase (enteropeptidase).",
+    "id": 215,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 13,
+    "front": "Why does terminal ileal disease cause vitamin B12 deficiency while pernicious anemia causes it through a different mechanism?",
+    "back": "Terminal ileal disease removes the absorptive site for the intrinsic factor-B12 complex, while pernicious anemia destroys parietal cells or produces antibodies against intrinsic factor itself, removing the carrier protein.",
+    "id": 216,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 13,
+    "front": "What is the incretin effect, and which two hormones mediate it?",
+    "back": "The incretin effect is the observation that oral glucose stimulates more insulin secretion than equivalent intravenous glucose; GIP and GLP-1 mediate this by potentiating glucose-stimulated insulin release.",
+    "id": 217,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 13,
+    "front": "What embryologic failure causes Hirschsprung disease?",
+    "back": "Failure of neural crest cell migration into the distal colon produces an aganglionic segment lacking both the myenteric and submucosal plexuses, causing functional obstruction.",
+    "id": 218,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 13,
+    "front": "What role does lingual lipase play in lipid digestion, and when is it proportionally most important?",
+    "back": "It begins triglyceride digestion in the mouth and continues acting in the acidic stomach; it is proportionally more important in neonates, whose pancreatic lipase output is still low.",
+    "id": 219,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 13,
+    "front": "What is the preferred energy substrate for colonocytes, and where does it come from?",
+    "back": "Butyrate, a short-chain fatty acid produced by colonic bacterial fermentation of dietary fiber, serves as the preferred energy substrate for colonocytes.",
+    "id": 220,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 13,
+    "front": "What is the gastrocolic reflex, and what triggers it?",
+    "back": "It is the urge to defecate triggered by mass colonic movements following gastric distension after a meal, linking eating to increased colonic motility.",
+    "id": 221,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 14,
+    "front": "What distinguishes Barrett esophagus histologically, and what malignancy does it predispose to?",
+    "back": "Normal nonkeratinized squamous epithelium is replaced by columnar epithelium with goblet cells (intestinal metaplasia), predisposing to esophageal adenocarcinoma.",
+    "id": 222,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 14,
+    "front": "What is the classic barium esophagram finding in achalasia, and what causes it?",
+    "back": "A dilated esophageal body tapering to a smoothly narrowed distal segment (bird's beak), caused by loss of inhibitory myenteric neurons preventing lower esophageal sphincter relaxation.",
+    "id": 223,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 14,
+    "front": "What distinguishes Mallory-Weiss syndrome from Boerhaave syndrome?",
+    "back": "Mallory-Weiss is a mucosal/submucosal tear at the gastroesophageal junction from forceful vomiting, while Boerhaave syndrome is a full-thickness rupture causing mediastinal contamination, a surgical emergency.",
+    "id": 224,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 14,
+    "front": "How does H. pylori infection increase gastric acid secretion despite causing chronic gastritis?",
+    "back": "Bacterial damage to antral somatostatin-producing D cells removes an inhibitory brake on gastrin release from G cells, increasing acid output.",
+    "id": 225,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 14,
+    "front": "What distinguishes intestinal-type from diffuse-type gastric adenocarcinoma?",
+    "back": "Intestinal type forms bulky ulcerating glandular masses associated with H. pylori and dietary factors, while diffuse type consists of noncohesive signet ring cells linked to CDH1 (E-cadherin) mutations, producing linitis plastica.",
+    "id": 226,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 14,
+    "front": "What are the classic serologic and histologic findings in celiac disease?",
+    "back": "IgA anti-tissue transglutaminase antibodies (checking total IgA to exclude false negatives from IgA deficiency), with villous atrophy, crypt hyperplasia, and increased intraepithelial lymphocytes most pronounced proximally.",
+    "id": 227,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 14,
+    "front": "Why does carcinoid syndrome typically require hepatic metastasis to manifest symptomatically?",
+    "back": "Serotonin secreted by a gastrointestinal carcinoid tumor is normally metabolized during first-pass hepatic metabolism; hepatic metastasis allows serotonin to bypass this clearance and reach systemic circulation.",
+    "id": 228,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 14,
+    "front": "What are the key distinguishing features of Crohn disease versus ulcerative colitis?",
+    "back": "Crohn disease shows skip lesions, transmural inflammation, granulomas, and fistulas anywhere from mouth to anus; ulcerative colitis shows continuous mucosal inflammation always starting at the rectum with crypt abscesses.",
+    "id": 229,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 14,
+    "front": "What extraintestinal manifestation is strongly and specifically associated with ulcerative colitis?",
+    "back": "Primary sclerosing cholangitis is a strong, specific association with ulcerative colitis, along with a higher long-term colorectal cancer risk than Crohn colitis.",
+    "id": 230,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 14,
+    "front": "What three genes are classically mutated in sequence during the adenoma-carcinoma sequence?",
+    "back": "APC (early loss), then activating KRAS mutation (adenoma growth), then TP53 loss (progression to invasive carcinoma).",
+    "id": 231,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 14,
+    "front": "Why do right-sided colon cancers more often present with iron deficiency anemia rather than obstruction?",
+    "back": "The wider right colon lumen and more liquid stool allow a mass to grow substantially and bleed chronically before causing any obstructive symptoms.",
+    "id": 232,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 14,
+    "front": "What distinguishes internal from external hemorrhoids in terms of innervation and pain?",
+    "back": "Internal hemorrhoids arise above the dentate line with visceral innervation and are painless; external hemorrhoids arise below the dentate line with somatic innervation and are painful.",
+    "id": 233,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 14,
+    "front": "Why must sucralfate not be given simultaneously with acid-suppressing medications?",
+    "back": "Sucralfate requires an acidic environment to polymerize and form its protective barrier over an ulcer crater, so acid suppression prevents its activation.",
+    "id": 234,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 14,
+    "front": "Why is misoprostol contraindicated for ulcer prophylaxis in pregnancy?",
+    "back": "Misoprostol is a prostaglandin E1 analog with uterotonic, abortifacient potential, making it contraindicated despite its usefulness in replacing NSAID-depleted mucosal protection.",
+    "id": 235,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 14,
+    "front": "What is the mechanism by which lactulose treats hepatic encephalopathy?",
+    "back": "Colonic bacterial metabolism of lactulose produces acidic byproducts that trap ammonia as the poorly absorbed ammonium ion, reducing its systemic absorption.",
+    "id": 236,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 14,
+    "front": "Why does appendicitis pain begin as periumbilical and later localize to the right lower quadrant?",
+    "back": "Early visceral pain reflects shared midgut afferent innervation entering the spinal cord at T10; later somatic pain at McBurney point reflects irritation of the adjacent parietal peritoneum with precise localization.",
+    "id": 237,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 14,
+    "front": "What distinguishes an indirect from a direct inguinal hernia anatomically?",
+    "back": "An indirect hernia passes lateral to the inferior epigastric vessels through the deep inguinal ring (patent processus vaginalis), while a direct hernia passes medial to these vessels through Hesselbach triangle.",
+    "id": 238,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 15,
+    "front": "What is the acinus model of liver zonation, and how does it differ from the classic lobule model?",
+    "back": "The acinus model divides the liver into three zones based on the actual sequence of blood flow and oxygen delivery, rather than the fixed hexagonal geometry of the classic lobule.",
+    "id": 239,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 15,
+    "front": "Why does acetaminophen toxicity characteristically cause centrilobular (zone 3) necrosis?",
+    "back": "Zone 3 hepatocytes have the highest concentration of cytochrome P450 enzymes, generating the most toxic NAPQI metabolite locally.",
+    "id": 240,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 15,
+    "front": "What is the function of hepatic stellate (Ito) cells in health versus chronic liver injury?",
+    "back": "Normally quiescent, storing vitamin A in the space of Disse, they become activated with chronic injury, transforming into myofibroblast-like cells that drive fibrosis.",
+    "id": 241,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 15,
+    "front": "Why does unconjugated hyperbilirubinemia not produce dark urine while conjugated hyperbilirubinemia does?",
+    "back": "Unconjugated bilirubin is lipophilic and albumin-bound, not water-soluble, so it cannot be filtered into urine; conjugated bilirubin is water-soluble and appears in urine.",
+    "id": 242,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 15,
+    "front": "What is the difference between Gilbert syndrome and Crigler-Najjar syndrome?",
+    "back": "Gilbert syndrome is a common, mild, generally benign reduction in UDP-glucuronosyltransferase activity, while Crigler-Najjar syndrome is a near-complete or complete absence of the same enzyme, risking kernicterus.",
+    "id": 243,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 15,
+    "front": "What hepatitis B serologic marker indicates recent acute infection during the window period?",
+    "back": "IgM anti-HBc, which persists after HBsAg becomes undetectable but before anti-HBs rises to detectable levels.",
+    "id": 244,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 15,
+    "front": "Why is hepatitis C-associated hepatocellular carcinoma different from hepatitis B-associated hepatocellular carcinoma in its relationship to cirrhosis?",
+    "back": "Hepatitis C-associated hepatocellular carcinoma essentially always arises in the setting of established cirrhosis, while hepatitis B can cause hepatocellular carcinoma even without cirrhosis through direct viral genome integration.",
+    "id": 245,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 15,
+    "front": "Why is the AST:ALT ratio typically greater than two in alcoholic hepatitis?",
+    "back": "Alcohol depletes hepatic pyridoxal phosphate, a cofactor required more heavily by ALT than AST, disproportionately reducing ALT activity relative to AST.",
+    "id": 246,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 15,
+    "front": "What three mechanisms contribute to ascites formation in cirrhosis?",
+    "back": "Increased hepatic sinusoidal hydrostatic pressure, reduced albumin synthesis lowering oncotic pressure, and splanchnic vasodilation activating the renin-angiotensin-aldosterone system to retain sodium and water.",
+    "id": 247,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 15,
+    "front": "What distinguishes hepatorenal syndrome from acute tubular necrosis as a cause of kidney injury in cirrhosis?",
+    "back": "Hepatorenal syndrome is a functional injury from splanchnic vasodilation triggering renal vasoconstriction in structurally normal kidneys, unlike the intrinsic structural damage seen in acute tubular necrosis.",
+    "id": 248,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 15,
+    "front": "What are the five F risk factors classically associated with cholesterol gallstones?",
+    "back": "Female, fertility (multiparity), forty (age), fat (obesity), and family history, along with rapid weight loss and reduced gallbladder motility states.",
+    "id": 249,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 15,
+    "front": "What distinguishes black pigment gallstones from brown pigment gallstones?",
+    "back": "Black pigment stones form from chronic hemolysis increasing bilirubin production, while brown pigment stones form from biliary infection with bacterial deconjugation of bilirubin.",
+    "id": 250,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 15,
+    "front": "What is Charcot triad, and what additional findings define Reynolds pentad?",
+    "back": "Charcot triad is fever, jaundice, and right upper quadrant pain from ascending cholangitis; Reynolds pentad adds hypotension and altered mental status, indicating more severe disease.",
+    "id": 251,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 15,
+    "front": "What is the mechanism of hypocalcemia in acute pancreatitis?",
+    "back": "Fatty acids released through pancreatic fat necrosis saponify with calcium, sequestering it and lowering serum calcium levels.",
+    "id": 252,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 15,
+    "front": "What is Courvoisier sign, and why does it suggest malignancy rather than gallstone disease?",
+    "back": "A palpable, nontender, distended gallbladder with painless jaundice, suggesting gradual malignant biliary obstruction (often pancreatic head cancer) rather than the acute inflammatory response typical of stone-related obstruction.",
+    "id": 253,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 15,
+    "front": "Why do chronic pancreatitis patients develop both steatorrhea and diabetes mellitus over time?",
+    "back": "Progressive fibrosis destroys exocrine tissue first, reducing lipase output and causing steatorrhea, and eventually destroys enough islet cell mass to cause diabetes mellitus.",
+    "id": 254,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 15,
+    "front": "What is the most consistently identified molecular alteration in pancreatic ductal adenocarcinoma?",
+    "back": "Activating KRAS mutation is one of the most consistently identified molecular alterations across cases of pancreatic ductal adenocarcinoma.",
+    "id": 255,
+    "domain": "gastrointestinal"
+  },
+  {
+    "chapter": 16,
+    "front": "What protein anchors the red cell membrane to the cytoskeleton, and which two proteins are most often mutated in hereditary spherocytosis?",
+    "back": "Ankyrin links the membrane to the underlying spectrin cytoskeleton; spectrin and ankyrin are the two most commonly mutated proteins in hereditary spherocytosis.",
+    "id": 256,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 16,
+    "front": "Why does HbF have a higher oxygen affinity than HbA?",
+    "back": "HbF's gamma chains bind 2,3-bisphosphoglycerate less avidly than HbA's beta chains, so HbF holds oxygen more tightly, allowing it to extract oxygen from maternal blood across the placenta.",
+    "id": 257,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 16,
+    "front": "What is the mechanism of methylene blue in treating methemoglobinemia?",
+    "back": "Methylene blue accelerates NADPH-dependent methemoglobin reductase activity, speeding reduction of ferric (Fe3+) iron back to the ferrous (Fe2+) state so hemoglobin can bind oxygen again.",
+    "id": 258,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 16,
+    "front": "Which laboratory finding distinguishes iron deficiency anemia from anemia of chronic disease when both cause microcytosis?",
+    "back": "Ferritin: it is low in true iron deficiency (depleted stores) but normal or elevated in anemia of chronic disease (iron trapped in macrophages despite adequate stores).",
+    "id": 259,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 16,
+    "front": "What is the underlying enzyme defect in most cases of sideroblastic anemia from lead poisoning?",
+    "back": "Lead inhibits ALA dehydratase and ferrochelatase, two enzymes of the heme synthesis pathway, causing iron to accumulate in mitochondria as ringed sideroblasts.",
+    "id": 260,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 16,
+    "front": "Why does giving folate alone to a B12-deficient patient risk masking disease progression?",
+    "back": "Folate can correct the megaloblastic anemia (since methionine synthase uses both B12 and folate), but the neurologic damage from methylmalonic acid accumulation continues unrecognized without B12 itself.",
+    "id": 261,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 16,
+    "front": "What triggers hemoglobin S polymerization in sickle cell disease?",
+    "back": "Deoxygenation of hemoglobin S causes it to polymerize into rigid fibers that distort the red cell into a sickle shape; hypoxia, dehydration, acidosis, and cold all promote this.",
+    "id": 262,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 16,
+    "front": "What infectious organism classically triggers cold agglutinin disease?",
+    "back": "Mycoplasma pneumoniae infection (also Epstein-Barr virus) classically triggers IgM cold agglutinins that fix complement and cause intravascular hemolysis at cooler peripheral temperatures.",
+    "id": 263,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 16,
+    "front": "What is the direct antiglobulin (Coombs) test detecting?",
+    "back": "It detects antibody or complement bound directly to the surface of the patient's own circulating red blood cells, confirming an autoimmune hemolytic process.",
+    "id": 264,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 16,
+    "front": "Why does von Willebrand disease also reduce factor VIII levels?",
+    "back": "Von Willebrand factor normally binds and stabilizes circulating factor VIII, protecting it from degradation; its deficiency therefore secondarily lowers factor VIII activity as well.",
+    "id": 265,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 16,
+    "front": "Which clotting factors and anticoagulant proteins require vitamin K-dependent gamma-carboxylation?",
+    "back": "Factors II, VII, IX, and X, along with the anticoagulant proteins C and S, all require vitamin K-dependent gamma-carboxylation of glutamate residues to become functional.",
+    "id": 266,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 16,
+    "front": "Why can warfarin transiently cause a hypercoagulable state at the start of therapy?",
+    "back": "Protein C has a shorter half-life than the procoagulant vitamin K-dependent factors, so its level falls faster, briefly tipping the balance toward clotting before the procoagulant factors also decline.",
+    "id": 267,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 16,
+    "front": "What laboratory pattern distinguishes hemophilia A from von Willebrand disease?",
+    "back": "Hemophilia A prolongs the partial thromboplastin time with a normal bleeding time and deep tissue bleeding; von Willebrand disease prolongs the bleeding time with mucocutaneous bleeding.",
+    "id": 268,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 16,
+    "front": "Why does antithrombin III deficiency cause heparin resistance?",
+    "back": "Heparin's anticoagulant effect works by potentiating antithrombin III activity; without adequate antithrombin III, heparin has little substrate to enhance and loses its anticoagulant effect.",
+    "id": 269,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 16,
+    "front": "What is the apparent paradox of antiphospholipid syndrome on coagulation testing?",
+    "back": "It prolongs the partial thromboplastin time in vitro (lupus anticoagulant effect on an artificial phospholipid surface) while causing a hypercoagulable, pro-thrombotic state in vivo.",
+    "id": 270,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 16,
+    "front": "What is the function of thrombopoietin and where is it produced?",
+    "back": "Thrombopoietin, produced constitutively by the liver, drives megakaryocyte maturation and platelet production; its level is inversely regulated by circulating platelet mass, which clears it via platelet receptors.",
+    "id": 271,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 16,
+    "front": "What red cell finding is diagnostic of G6PD deficiency during a hemolytic episode?",
+    "back": "Bite cells and Heinz bodies, formed when splenic macrophages remove denatured, oxidized hemoglobin precipitates from red cells lacking adequate reduced glutathione.",
+    "id": 272,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 17,
+    "front": "What immunodeficiency is caused by DiGeorge syndrome, and which lymph node zone is depleted?",
+    "back": "T cell immunodeficiency from thymic hypoplasia; the paracortex, the T cell zone of the lymph node, is depleted.",
+    "id": 273,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 17,
+    "front": "Why are asplenic patients especially vulnerable to encapsulated bacteria?",
+    "back": "The spleen's white pulp is a primary site of antipolysaccharide capsular antibody production, and its red pulp clears opsonized bacteria from blood; losing both functions removes key defenses against encapsulated organisms.",
+    "id": 274,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 17,
+    "front": "What translocation and fusion protein defines acute promyelocytic leukemia, and what treatment exploits it?",
+    "back": "t(15;17) fuses the retinoic acid receptor alpha gene; all-trans retinoic acid induces terminal differentiation of the malignant promyelocytes.",
+    "id": 275,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 17,
+    "front": "What is the shared mutation underlying most classic myeloproliferative neoplasms (excluding CML)?",
+    "back": "An activating point mutation in JAK2, a cytoplasmic tyrosine kinase acting downstream of erythropoietin, thrombopoietin, and G-CSF receptors.",
+    "id": 276,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 17,
+    "front": "What causes aquagenic pruritus in polycythemia vera?",
+    "back": "Itching after a warm bath or shower, thought to relate to abnormal mast cell degranulation triggered by warm water exposure.",
+    "id": 277,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 17,
+    "front": "What red cell finding is characteristic of primary myelofibrosis and why?",
+    "back": "Teardrop-shaped red cells (dacrocytes), formed as red cells are forced through a marrow architecture progressively replaced by fibrous tissue.",
+    "id": 278,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 17,
+    "front": "What surrounds the actual neoplastic Reed-Sternberg cells in Hodgkin lymphoma, and why does it matter?",
+    "back": "A reactive infiltrate of lymphocytes, eosinophils, plasma cells, and histiocytes vastly outnumbering the malignant cells, which is responsible for most of the tumor mass and cytokine-driven B symptoms.",
+    "id": 279,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 17,
+    "front": "What is the mechanism by which the t(14;18) translocation causes follicular lymphoma?",
+    "back": "It juxtaposes BCL2 with the immunoglobulin heavy chain locus, overexpressing the anti-apoptotic BCL2 protein and allowing malignant cells to resist normal apoptotic elimination.",
+    "id": 280,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 17,
+    "front": "What does the 'starry sky' appearance in Burkitt lymphoma represent histologically?",
+    "back": "Scattered benign macrophages that have phagocytosed apoptotic tumor cell debris amid a background of densely packed, rapidly dividing malignant lymphocytes.",
+    "id": 281,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 17,
+    "front": "What is Bence Jones protein and what does it reflect?",
+    "back": "Excess free immunoglobulin light chains filtered by the kidney and excreted in urine in multiple myeloma; their tubular deposition contributes to myeloma-associated kidney injury.",
+    "id": 282,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 17,
+    "front": "How does Waldenstrom macroglobulinemia's clinical presentation differ from multiple myeloma despite both being plasma cell/lymphoplasmacytic disorders?",
+    "back": "Waldenstrom produces monoclonal IgM causing hyperviscosity syndrome, but characteristically lacks the lytic bone lesions seen in myeloma.",
+    "id": 283,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 17,
+    "front": "What is Knudson's two-hit hypothesis?",
+    "back": "Tumor suppressor genes typically require inactivation of both alleles before their protective function is lost; inherited cancer syndromes already carry one hit, so a single somatic second hit causes earlier, often bilateral disease.",
+    "id": 284,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 17,
+    "front": "What is the function of the RB protein in the cell cycle, and how does its phosphorylation change this?",
+    "back": "RB normally sequesters E2F, blocking G1-to-S progression; cyclin-dependent kinase phosphorylation of RB releases E2F, permitting cell cycle progression.",
+    "id": 285,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 17,
+    "front": "What paraneoplastic syndrome causes muscle weakness that improves with repeated use, and what tumor is it associated with?",
+    "back": "Lambert-Eaton myasthenic syndrome, caused by antibodies against presynaptic voltage-gated calcium channels, classically associated with small cell lung carcinoma.",
+    "id": 286,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 17,
+    "front": "Which tumor marker is associated with hepatocellular carcinoma and yolk sac tumors?",
+    "back": "Alpha-fetoprotein.",
+    "id": 287,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 17,
+    "front": "What is the mechanism of squamous cell lung carcinoma's paraneoplastic hypercalcemia?",
+    "back": "Secretion of parathyroid hormone-related peptide, which mimics PTH action on bone and kidney, distinct from direct bony metastasis.",
+    "id": 288,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 17,
+    "front": "What CD marker does rituximab target, and why does it spare plasma cells and stem cells?",
+    "back": "CD20, expressed on B cells from an early stage through late maturity but absent from earliest pro-B progenitors and terminally differentiated plasma cells.",
+    "id": 289,
+    "domain": "blood_immune"
+  },
+  {
+    "chapter": 18,
+    "front": "What hormone causes regression of the Mullerian ducts, and which cell secretes it?",
+    "back": "Anti-Mullerian hormone (Mullerian-inhibiting substance), secreted by fetal Sertoli cells.",
+    "id": 290,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 18,
+    "front": "What is the role of androgen-binding protein secreted by Sertoli cells?",
+    "back": "It maintains a high local testosterone concentration within the seminiferous tubule lumen, necessary for normal sperm maturation.",
+    "id": 291,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 18,
+    "front": "What structure forms the blood-testis barrier, and what is its immunologic function?",
+    "back": "Tight junctions between adjacent Sertoli cells; it sequesters haploid germ cell antigens (which arise only after puberty and central tolerance) from immune recognition, preventing autoimmune attack on the testis.",
+    "id": 292,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 18,
+    "front": "Describe the two-cell, two-gonadotropin model of estrogen synthesis in the ovarian follicle.",
+    "back": "LH stimulates theca cells to produce androgens, which granulosa cells, under FSH stimulation, aromatize into estradiol.",
+    "id": 293,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 18,
+    "front": "How long does the primary oocyte remain arrested in prophase I, and why does this matter clinically?",
+    "back": "From before birth until ovulation, potentially decades; this prolonged arrest is thought to underlie the increased risk of meiotic nondisjunction (e.g., trisomy 21) with advancing maternal age.",
+    "id": 294,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 18,
+    "front": "What effect does insulin resistance have on sex hormone-binding globulin, and why does this matter in PCOS?",
+    "back": "Insulin resistance reduces hepatic synthesis of sex hormone-binding globulin, raising the fraction of biologically active free testosterone and worsening hyperandrogenism.",
+    "id": 295,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 18,
+    "front": "Why does chronic anovulation in PCOS increase endometrial cancer risk?",
+    "back": "Chronic unopposed estrogen exposure without the cyclic progesterone normally produced after ovulation increases risk of endometrial hyperplasia and carcinoma.",
+    "id": 296,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 18,
+    "front": "What is the leading theory explaining the origin of ectopic endometrial tissue in endometriosis?",
+    "back": "Retrograde menstruation: shed endometrial tissue flows backward through the fallopian tubes into the peritoneal cavity and implants ectopically.",
+    "id": 297,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 18,
+    "front": "Why do uterine leiomyomas typically enlarge during pregnancy and shrink after menopause?",
+    "back": "Their growth is estrogen and progesterone dependent, so they respond to the hormonal environment of pregnancy and involute as sex steroid levels fall after menopause.",
+    "id": 298,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 18,
+    "front": "What are the functions of the HPV E6 and E7 oncoproteins?",
+    "back": "E6 promotes degradation of the p53 tumor suppressor; E7 binds and inactivates the RB tumor suppressor, releasing E2F to drive unchecked cell cycle progression.",
+    "id": 299,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 18,
+    "front": "Which testicular germ cell tumor marker is elevated by yolk sac tumors, and which by choriocarcinoma?",
+    "back": "Yolk sac tumors secrete alpha-fetoprotein; choriocarcinoma secretes human chorionic gonadotropin.",
+    "id": 300,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 18,
+    "front": "Why does benign prostatic hyperplasia present with obstructive urinary symptoms while prostate cancer is often initially silent?",
+    "back": "BPH arises in the periurethral transition zone, directly compressing the urethra; prostate cancer arises predominantly in the more distant peripheral zone.",
+    "id": 301,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 18,
+    "front": "What is the mechanism of phosphodiesterase type 5 inhibitors in treating erectile dysfunction?",
+    "back": "They prevent breakdown of cyclic GMP in corpus cavernosum smooth muscle, prolonging nitric oxide-mediated vasodilation and smooth muscle relaxation.",
+    "id": 302,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 18,
+    "front": "How does clomiphene induce ovulation in anovulatory infertility?",
+    "back": "It antagonizes hypothalamic estrogen receptors, blunting negative feedback and increasing GnRH pulse frequency, raising FSH and LH secretion.",
+    "id": 303,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 18,
+    "front": "What laboratory finding is the most useful early indicator of the menopausal transition?",
+    "back": "A rising FSH level, since FSH rises earlier and to a greater degree than LH as the ovarian follicular reserve declines.",
+    "id": 304,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 18,
+    "front": "What distinguishes fibrocystic breast change's cancer risk implication from a simple diagnosis of the condition itself?",
+    "back": "It is the presence or absence of atypical hyperplasia on biopsy, not the fibrocystic change itself, that determines future breast cancer risk.",
+    "id": 305,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 18,
+    "front": "What is the mechanism of aromatase inhibitors in postmenopausal breast cancer treatment?",
+    "back": "They block peripheral conversion of androgens to estrogen in adipose and other peripheral tissue, the dominant estrogen source once ovarian production ends after menopause.",
+    "id": 306,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 19,
+    "front": "What is the cortical reaction and what does it prevent?",
+    "back": "Release of cortical granule contents into the perivitelline space after sperm-oocyte fusion, modifying the zona pellucida to block polyspermy.",
+    "id": 307,
+    "domain": "human_development"
+  },
+  {
+    "chapter": 19,
+    "front": "What is the significance of an abnormally slow-rising or plateauing hCG in early pregnancy?",
+    "back": "It raises concern for ectopic pregnancy or early pregnancy loss, since both reflect inadequate trophoblastic proliferation.",
+    "id": 308,
+    "domain": "human_development"
+  },
+  {
+    "chapter": 19,
+    "front": "What is the fetoplacental unit?",
+    "back": "The cooperative steroidogenic relationship in which the placenta, lacking certain enzymes for complete estrogen synthesis alone, depends on fetal adrenal precursor hormones to complete the pathway.",
+    "id": 309,
+    "domain": "human_development"
+  },
+  {
+    "chapter": 19,
+    "front": "Which germ layer gives rise to the epithelial lining of the GI and respiratory tracts and their glandular derivatives?",
+    "back": "Endoderm, including the liver, pancreas, and thyroid follicular cells.",
+    "id": 310,
+    "domain": "human_development"
+  },
+  {
+    "chapter": 19,
+    "front": "What signaling molecule does the notochord secrete to induce neural plate formation?",
+    "back": "Sonic hedgehog.",
+    "id": 311,
+    "domain": "human_development"
+  },
+  {
+    "chapter": 19,
+    "front": "What adult structure does the notochord leave behind after it regresses?",
+    "back": "The nucleus pulposus of the intervertebral discs.",
+    "id": 312,
+    "domain": "human_development"
+  },
+  {
+    "chapter": 19,
+    "front": "Name three structures derived from neural crest cells.",
+    "back": "Any three of: peripheral sensory and autonomic ganglia, Schwann cells, adrenal medulla chromaffin cells, melanocytes, the aorticopulmonary septum, facial/skull bones, odontoblasts.",
+    "id": 313,
+    "domain": "human_development"
+  },
+  {
+    "chapter": 19,
+    "front": "What placental and membrane arrangement results from a monozygotic twin split occurring within the first three days after fertilization?",
+    "back": "Dichorionic, diamniotic (separate placentas, chorions, and amnions), morphologically indistinguishable from dizygotic twins on imaging.",
+    "id": 314,
+    "domain": "human_development"
+  },
+  {
+    "chapter": 19,
+    "front": "What causes twin-to-twin transfusion syndrome, and which twin becomes polycythemic?",
+    "back": "Vascular anastomoses within a shared monochorionic placenta cause unbalanced blood flow; the recipient twin becomes polycythemic and volume overloaded, while the donor twin becomes anemic and growth restricted.",
+    "id": 315,
+    "domain": "human_development"
+  },
+  {
+    "chapter": 19,
+    "front": "According to the all-or-none principle, what is the effect of a severe teratogenic exposure during the pre-embryonic period (first two weeks)?",
+    "back": "It either kills the embryo entirely or is fully compensated for without lasting effect, since remaining pluripotent cells can replace lost ones.",
+    "id": 316,
+    "domain": "human_development"
+  },
+  {
+    "chapter": 19,
+    "front": "Why is heparin preferred over warfarin for anticoagulation during pregnancy?",
+    "back": "Heparin does not cross the placenta, unlike warfarin, which causes fetal warfarin syndrome (skeletal and nasal cartilage malformations).",
+    "id": 317,
+    "domain": "human_development"
+  },
+  {
+    "chapter": 19,
+    "front": "What is the physiologic role of the foramen ovale during fetal life, and what closes it at birth?",
+    "back": "It shunts oxygenated blood from the right to left atrium, preferentially perfusing the coronary and cerebral circulations; reversal of the atrial pressure gradient at birth (left now exceeding right) closes it functionally.",
+    "id": 318,
+    "domain": "human_development"
+  },
+  {
+    "chapter": 19,
+    "front": "What pharmacologic agent keeps the ductus arteriosus open in duct-dependent congenital cardiac lesions?",
+    "back": "Prostaglandin E1 infusion.",
+    "id": 319,
+    "domain": "human_development"
+  },
+  {
+    "chapter": 19,
+    "front": "What distinguishes omphalocele from gastroschisis in terms of covering membrane and associated anomalies?",
+    "back": "Omphalocele has a covering peritoneal sac and is frequently associated with chromosomal abnormalities; gastroschisis has no covering sac and is usually an isolated defect.",
+    "id": 320,
+    "domain": "human_development"
+  },
+  {
+    "chapter": 19,
+    "front": "What is the embryologic defect underlying most congenital diaphragmatic hernias, and on which side do they most often occur?",
+    "back": "Failure of the pleuroperitoneal membrane to fuse and close the pericardioperitoneal canal, most commonly on the left side (foramen of Bochdalek).",
+    "id": 321,
+    "domain": "human_development"
+  },
+  {
+    "chapter": 19,
+    "front": "What antiangiogenic factor is elevated in preeclampsia, and what does it antagonize?",
+    "back": "Soluble fms-like tyrosine kinase-1, which antagonizes vascular endothelial growth factor and placental growth factor, causing widespread maternal endothelial dysfunction.",
+    "id": 322,
+    "domain": "human_development"
+  },
+  {
+    "chapter": 19,
+    "front": "What distinguishes the pain characteristics of placenta previa from placental abruption?",
+    "back": "Placenta previa classically causes painless bright red vaginal bleeding; placental abruption causes painful bleeding with uterine tenderness and often a firm, hypertonic uterus.",
+    "id": 323,
+    "domain": "human_development"
+  },
+  {
+    "chapter": 20,
+    "front": "What is the stalk effect, and why does it raise prolactin?",
+    "back": "Compression of the pituitary stalk disrupts delivery of hypothalamic dopamine (the tonic inhibitor of prolactin), so prolactin rises even when the lesion has nothing to do with prolactin-secreting cells.",
+    "id": 324,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 20,
+    "front": "Which enzyme catalyzes both organification of iodide and coupling of iodinated tyrosines in thyroid hormone synthesis?",
+    "back": "Thyroid peroxidase.",
+    "id": 325,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 20,
+    "front": "Why is T4 considered a precursor hormone despite being secreted in much greater quantity than T3?",
+    "back": "T4 is less biologically active than T3; peripheral tissues convert T4 to the more potent T3 via deiodinase enzymes according to local metabolic demand.",
+    "id": 326,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 20,
+    "front": "What histologic features characterize papillary thyroid carcinoma?",
+    "back": "'Orphan Annie eye' nuclei with central clearing, nuclear grooves, and psammoma bodies (concentrically laminated calcifications).",
+    "id": 327,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 20,
+    "front": "Why can fine-needle aspiration cytology not distinguish follicular adenoma from follicular thyroid carcinoma?",
+    "back": "The distinction requires evidence of capsular or vascular invasion, which can only be assessed on histologic examination of the excised gland, not on cytology alone.",
+    "id": 328,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 20,
+    "front": "What tumor marker is secreted by medullary thyroid carcinoma, and from what cell type does it arise?",
+    "back": "Calcitonin, secreted by parafollicular C cells (not follicular cells).",
+    "id": 329,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 20,
+    "front": "Why does PTH act on osteoblasts rather than osteoclasts directly to resorb bone?",
+    "back": "Osteoclasts lack PTH receptors; PTH acts on osteoblasts to increase RANK ligand expression, which then activates osteoclasts indirectly.",
+    "id": 330,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 20,
+    "front": "What is the classic laboratory pattern of primary hyperparathyroidism?",
+    "back": "Hypercalcemia with an inappropriately normal or elevated PTH level and low serum phosphate.",
+    "id": 331,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 20,
+    "front": "What clinical signs demonstrate neuromuscular irritability in hypoparathyroidism?",
+    "back": "Chvostek sign (facial twitching upon tapping the facial nerve) and Trousseau sign (carpal spasm upon blood pressure cuff inflation).",
+    "id": 332,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 20,
+    "front": "Which adrenal cortex zone produces mineralocorticoids, and what primarily regulates it?",
+    "back": "The zona glomerulosa, regulated primarily by the renin-angiotensin-aldosterone system rather than by ACTH.",
+    "id": 333,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 20,
+    "front": "How does exogenous glucocorticoid therapy cause adrenal insufficiency, and why must it be tapered rather than stopped abruptly?",
+    "back": "It suppresses endogenous ACTH and cortisol production through negative feedback; abrupt discontinuation does not allow the suppressed hypothalamic-pituitary-adrenal axis time to recover.",
+    "id": 334,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 20,
+    "front": "Why does secondary adrenal insufficiency spare aldosterone production?",
+    "back": "Aldosterone secretion depends primarily on the renin-angiotensin system rather than on ACTH, so ACTH deficiency alone does not impair it.",
+    "id": 335,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 20,
+    "front": "What is the mechanism of virilization in 21-hydroxylase deficiency congenital adrenal hyperplasia?",
+    "back": "Blocked cortisol synthesis removes negative feedback, driving persistently elevated ACTH that shunts steroid precursors into the unaffected adrenal androgen pathway.",
+    "id": 336,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 20,
+    "front": "Why must alpha blockade precede beta blockade before pheochromocytoma surgery?",
+    "back": "Blocking beta receptors first would leave alpha-mediated vasoconstriction unopposed, potentially precipitating a hypertensive crisis.",
+    "id": 337,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 20,
+    "front": "What mechanism drives insulin release from the pancreatic beta cell in response to rising glucose?",
+    "back": "Closure of ATP-sensitive potassium channels causes membrane depolarization and calcium influx, triggering insulin granule exocytosis; insulin then promotes GLUT4 translocation in muscle and adipose tissue.",
+    "id": 338,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 20,
+    "front": "Which MEN syndrome includes parathyroid, pancreatic, and pituitary tumors, and what gene is mutated?",
+    "back": "MEN type 1, caused by mutation of the MEN1 tumor suppressor gene.",
+    "id": 339,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 20,
+    "front": "What test confirms the diagnosis of acromegaly?",
+    "back": "An elevated insulin-like growth factor 1 level and failure of growth hormone to suppress appropriately during an oral glucose tolerance test.",
+    "id": 340,
+    "domain": "reproductive_endocrine"
+  },
+  {
+    "chapter": 21,
+    "front": "What is the rate-limiting enzyme marker of osteoblastic activity used clinically?",
+    "back": "Alkaline phosphatase, secreted by osteoblasts and essential for matrix mineralization; serum levels rise with active bone formation.",
+    "id": 341,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 21,
+    "front": "What cell type resorbs bone and from what lineage is it derived?",
+    "back": "Osteoclasts, large multinucleated cells derived from the monocyte-macrophage lineage, which resorb bone via hydrogen ion secretion and cathepsin K.",
+    "id": 342,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 21,
+    "front": "What are Haversian and Volkmann canals?",
+    "back": "Haversian canals run longitudinally through the center of osteons carrying vessels and nerves; Volkmann canals run perpendicular, connecting Haversian canals to each other and to the periosteum.",
+    "id": 343,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 21,
+    "front": "Which signaling molecules regulate the pace of chondrocyte proliferation versus hypertrophy at the growth plate?",
+    "back": "Indian hedgehog and parathyroid hormone-related protein (PTHrP), which together control the transition from proliferation to hypertrophic differentiation.",
+    "id": 344,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 21,
+    "front": "What triggers epiphyseal growth plate closure at puberty?",
+    "back": "Rising sex steroid concentrations, primarily estrogen (even in males, via peripheral aromatization of testosterone), which progressively narrow and close the growth plate.",
+    "id": 345,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 21,
+    "front": "What distinguishes the location of nuclei in skeletal muscle versus cardiac muscle fibers?",
+    "back": "Skeletal muscle fibers have peripherally located nuclei, while cardiac myocytes typically have centrally located nuclei.",
+    "id": 346,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 21,
+    "front": "What is the M-line of the sarcomere?",
+    "back": "A structure bisecting the H-zone that anchors the thick (myosin) filaments in register at the center of the sarcomere.",
+    "id": 347,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 21,
+    "front": "How does calcium-induced calcium release differ between skeletal and cardiac muscle excitation-contraction coupling?",
+    "back": "In skeletal muscle, DHPR mechanically opens RyR1 directly without needing extracellular calcium; in cardiac muscle, extracellular calcium entry through DHPR triggers RyR2 opening via calcium-induced calcium release.",
+    "id": 348,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 21,
+    "front": "What enzyme terminates acetylcholine signaling at the neuromuscular junction?",
+    "back": "Acetylcholinesterase, anchored in the synaptic cleft, rapidly hydrolyzes acetylcholine to terminate the end-plate signal.",
+    "id": 349,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 21,
+    "front": "What is the classification of the pubic symphysis as a joint type?",
+    "back": "An amphiarthrosis (cartilaginous joint), permitting limited movement.",
+    "id": 350,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 21,
+    "front": "Why is articular cartilage poor at self-repair after injury?",
+    "back": "It is avascular hyaline cartilage lacking a perichondrium, nourished only by diffusion from synovial fluid, limiting its regenerative capacity.",
+    "id": 351,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 21,
+    "front": "In Marfan syndrome, why does loss of functional fibrillin-1 increase TGF-beta signaling?",
+    "back": "Fibrillin-1 normally sequesters TGF-beta in the extracellular matrix; its loss releases more unbound, active TGF-beta, contributing to aortic root dilation.",
+    "id": 352,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 21,
+    "front": "In which direction does the lens dislocate in Marfan syndrome versus homocystinuria?",
+    "back": "Marfan syndrome: upward lens dislocation. Homocystinuria: downward lens dislocation.",
+    "id": 353,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 21,
+    "front": "What glycoprotein complex does dystrophin normally link, and what happens without it?",
+    "back": "Dystrophin links the intracellular actin cytoskeleton to the extracellular matrix via a membrane-spanning glycoprotein complex; without it the sarcolemma is progressively damaged during contraction.",
+    "id": 354,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 21,
+    "front": "What is Wolff's law?",
+    "back": "The principle that bone architecture adapts to mechanical load, with trabecular orientation aligning along stress lines and bone mass increasing with loading, decreasing with disuse.",
+    "id": 355,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 21,
+    "front": "What happens to cross-bridge cycling after death, and why?",
+    "back": "Rigor mortis occurs because ATP is required for myosin to detach from actin; without ATP, cross-bridges remain locked, producing muscle stiffness.",
+    "id": 356,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 22,
+    "front": "What structural protein forms the rigid shell replacing the plasma membrane in fully keratinized corneocytes?",
+    "back": "The cornified envelope, formed by cross-linked involucrin and filaggrin.",
+    "id": 357,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 22,
+    "front": "What proteins anchor basal keratinocytes to the basement membrane via hemidesmosomes?",
+    "back": "Type XVII collagen (BP180) and integrin alpha-6 beta-4, connecting to laminin-332 and, via anchoring fibrils of type VII collagen, into the dermis.",
+    "id": 358,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 22,
+    "front": "From what embryologic tissue are melanocytes derived, and where do they reside?",
+    "back": "The neural crest; they reside in the stratum basale in a roughly fixed ratio to keratinocytes regardless of race.",
+    "id": 359,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 22,
+    "front": "What are eumelanin and pheomelanin?",
+    "back": "Eumelanin is a brown-black pigment with greater photoprotection; pheomelanin is a red-yellow pigment with less photoprotection, characteristic of red hair and fair skin.",
+    "id": 360,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 22,
+    "front": "What distinguishes the papillary from the reticular dermis?",
+    "back": "Papillary dermis: thin, loosely arranged type III collagen with dermal papillae. Reticular dermis: thick, densely packed type I collagen and elastin providing tensile strength.",
+    "id": 361,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 22,
+    "front": "Which dermal receptor mediates deep pressure and high-frequency vibration?",
+    "back": "The Pacinian corpuscle, a large, layered receptor located in the deep dermis and subcutis.",
+    "id": 362,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 22,
+    "front": "What neurotransmitter do eccrine sweat glands use despite being sympathetically innervated?",
+    "back": "Acetylcholine (sympathetic cholinergic innervation), unusual among sympathetic targets, which typically use norepinephrine.",
+    "id": 363,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 22,
+    "front": "What is holocrine secretion, and which gland uses it?",
+    "back": "A secretion mechanism in which the entire cell disintegrates to release its contents; sebaceous glands use holocrine secretion to release sebum.",
+    "id": 364,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 22,
+    "front": "Which phase of wound healing involves macrophages releasing PDGF and TGF-beta to recruit fibroblasts?",
+    "back": "The inflammatory phase, transitioning the wound into the proliferative phase.",
+    "id": 365,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 22,
+    "front": "What percentage of normal tensile strength does remodeled scar tissue typically reach?",
+    "back": "Roughly 80 percent of normal skin's original tensile strength, even after full remodeling.",
+    "id": 366,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 22,
+    "front": "What distinguishes a keloid from a hypertrophic scar in terms of spontaneous behavior?",
+    "back": "Keloids extend beyond original wound margins and do not regress spontaneously; hypertrophic scars stay within the wound margins and often regress over time.",
+    "id": 367,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 22,
+    "front": "Why does necrotizing fasciitis require emergent surgical debridement rather than antibiotics alone?",
+    "back": "The deep fascial planes are poorly vascularized and necrotic, so antibiotics cannot penetrate adequately; surgical debridement is required to remove infected, nonviable tissue.",
+    "id": 368,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 22,
+    "front": "What histologic finding is characteristic of psoriasis reflecting accelerated keratinocyte turnover?",
+    "back": "Parakeratosis (retained nuclei in the stratum corneum) along with acanthosis and neutrophilic Munro microabscesses.",
+    "id": 369,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 22,
+    "front": "What is the precursor lesion for squamous cell carcinoma?",
+    "back": "Actinic keratosis, a scaly lesion caused by cumulative ultraviolet exposure.",
+    "id": 370,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 22,
+    "front": "What are the ABCDE criteria for melanoma?",
+    "back": "Asymmetry, Border irregularity, Color variation, Diameter greater than 6 mm, and Evolution over time.",
+    "id": 371,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 22,
+    "front": "What is the function of Merkel cells beyond mechanosensation, and where are they located?",
+    "back": "Merkel cells are located at the dermal-epidermal junction (basal layer) and mediate sustained light touch and fine texture discrimination.",
+    "id": 372,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 23,
+    "front": "What is AIRE, and what disease results from its mutation?",
+    "back": "The autoimmune regulator protein, mediating negative selection of self-reactive T cells in the thymus; its mutation causes autoimmune polyendocrine syndrome type 1.",
+    "id": 373,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 23,
+    "front": "What is anergy in the context of peripheral tolerance?",
+    "back": "A state of functional T cell unresponsiveness induced when a T cell receives antigen recognition without adequate costimulation.",
+    "id": 374,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 23,
+    "front": "How specific is rheumatoid factor compared to anti-CCP antibodies for rheumatoid arthritis?",
+    "back": "Rheumatoid factor is less specific, appearing in other autoimmune diseases, chronic infections, and some healthy people; anti-CCP is highly specific for rheumatoid arthritis.",
+    "id": 375,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 23,
+    "front": "What is a rheumatoid nodule histologically?",
+    "back": "A necrobiotic granuloma with a central zone of fibrinoid necrosis surrounded by palisading histiocytes.",
+    "id": 376,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 23,
+    "front": "At high (chemotherapy) doses versus low (rheumatoid arthritis) doses, what is methotrexate's mechanism?",
+    "back": "High dose: dihydrofolate reductase inhibition. Low dose (rheumatoid arthritis): thought to act primarily through increased extracellular adenosine release with broad anti-inflammatory effect.",
+    "id": 377,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 23,
+    "front": "What enzyme deficiency causes Lesch-Nyhan syndrome, and what does it cause?",
+    "back": "Hypoxanthine-guanine phosphoribosyltransferase (HGPRT) deficiency, causing uric acid overproduction, gout, and self-mutilating behavior.",
+    "id": 378,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 23,
+    "front": "What is the optical birefringence and shape of calcium pyrophosphate crystals in pseudogout?",
+    "back": "Rhomboid-shaped with weakly positive birefringence, appearing blue when aligned parallel to the compensator axis.",
+    "id": 379,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 23,
+    "front": "What conditions are classically associated with pseudogout?",
+    "back": "Hemochromatosis, hyperparathyroidism, and hypothyroidism.",
+    "id": 380,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 23,
+    "front": "What radiographic deformity is characteristic of psoriatic arthritis?",
+    "back": "The pencil-in-cup deformity, along with dactylitis (sausage digit).",
+    "id": 381,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 23,
+    "front": "Which organisms classically trigger reactive arthritis?",
+    "back": "Genitourinary: Chlamydia trachomatis. Gastrointestinal: Shigella, Salmonella, Campylobacter, or Yersinia.",
+    "id": 382,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 23,
+    "front": "What ISN/RPS class of lupus nephritis is most common and most severe, and what is its hallmark finding?",
+    "back": "Class IV, diffuse proliferative glomerulonephritis, showing a 'wire loop' appearance from massive subendothelial immune complex deposition.",
+    "id": 383,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 23,
+    "front": "Which two drugs most classically cause drug-induced lupus?",
+    "back": "Procainamide and hydralazine, associated with anti-histone antibodies and typically sparing the kidneys and CNS.",
+    "id": 384,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 23,
+    "front": "What malignancy risk is increased in Sjogren syndrome, and from what cell of origin?",
+    "back": "Non-Hodgkin lymphoma, most commonly marginal zone (MALT) lymphoma, from chronic antigenic stimulation of glandular lymphoid tissue.",
+    "id": 385,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 23,
+    "front": "What antibody is associated with limited cutaneous systemic sclerosis, and what late complication can it cause?",
+    "back": "Anti-centromere antibodies; a serious late complication is isolated pulmonary arterial hypertension.",
+    "id": 386,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 23,
+    "front": "How is scleroderma renal crisis treated, and why is this notable?",
+    "back": "With ACE inhibitors, one of the rare instances this drug class is used emergently for acute malignant hypertension rather than for chronic control.",
+    "id": 387,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 23,
+    "front": "What is the histologic infiltrate location difference between polymyositis and dermatomyositis?",
+    "back": "Polymyositis: endomysial infiltrate (around individual fibers), CD8 T cell-mediated. Dermatomyositis: perimysial/perivascular infiltrate, complement-mediated, causing perifascicular atrophy.",
+    "id": 388,
+    "domain": "musculoskeletal_skin"
+  },
+  {
+    "chapter": 24,
+    "front": "What ion pump primarily maintains the resting membrane potential, and what is its stoichiometry?",
+    "back": "The sodium-potassium ATPase, pumping 3 sodium ions out and 2 potassium ions in per ATP hydrolyzed.",
+    "id": 389,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 24,
+    "front": "What is the afterhyperpolarization, and what causes it?",
+    "back": "A transient hyperpolarization beyond resting potential caused by delayed closure of voltage-gated potassium channels after the action potential's repolarization phase.",
+    "id": 390,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 24,
+    "front": "How many axon segments does one Schwann cell myelinate versus one oligodendrocyte?",
+    "back": "One Schwann cell myelinates a single internodal segment of one peripheral axon; one oligodendrocyte myelinates multiple segments across several different central axons.",
+    "id": 391,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 24,
+    "front": "What are the two broad functional classes of postsynaptic neurotransmitter receptors?",
+    "back": "Ionotropic receptors (ligand-gated ion channels, fast/brief effect) and metabotropic receptors (G protein-coupled, slower/modulatory effect).",
+    "id": 392,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 24,
+    "front": "How do benzodiazepines and barbiturates differ mechanistically at the GABA-A receptor?",
+    "back": "Benzodiazepines increase the frequency of channel opening; barbiturates increase the duration of channel opening.",
+    "id": 393,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 24,
+    "front": "What enzyme is rate-limiting in dopamine synthesis?",
+    "back": "Tyrosine hydroxylase, converting tyrosine to DOPA.",
+    "id": 394,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 24,
+    "front": "Which dopamine pathway, when hypoactive, is implicated in the negative symptoms of schizophrenia?",
+    "back": "The mesocortical pathway, projecting from the ventral tegmental area to the prefrontal cortex.",
+    "id": 395,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 24,
+    "front": "Why do dopamine antagonist antipsychotics commonly cause hyperprolactinemia?",
+    "back": "They block the tuberoinfundibular pathway, which normally tonically inhibits prolactin secretion from the anterior pituitary.",
+    "id": 396,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 24,
+    "front": "What is the Bell-Magendie law?",
+    "back": "Dorsal spinal roots carry sensory input into the cord; ventral roots carry motor output away from it.",
+    "id": 397,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 24,
+    "front": "At what level does the corticospinal tract decussate, forming the lateral corticospinal tract?",
+    "back": "The pyramidal decussation in the caudal medulla.",
+    "id": 398,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 24,
+    "front": "What clinical signs distinguish upper motor neuron from lower motor neuron lesions?",
+    "back": "Upper motor neuron: spastic weakness, hyperreflexia, positive Babinski, no early atrophy. Lower motor neuron: flaccid weakness, hyporeflexia, fasciculations, significant atrophy.",
+    "id": 399,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 24,
+    "front": "Where are the cranial nerve nuclei for nerves III and IV located?",
+    "back": "The midbrain.",
+    "id": 400,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 24,
+    "front": "Why does an aneurysm compressing the oculomotor nerve cause early pupillary dilation, unlike diabetic mononeuropathy?",
+    "back": "Parasympathetic pupillary fibers travel along the nerve's outer surface, making them vulnerable to compression, while ischemic (diabetic) injury affects the nerve's core and spares pupillary function.",
+    "id": 401,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 24,
+    "front": "Why do cerebellar hemispheric lesions produce ipsilateral rather than contralateral deficits?",
+    "back": "Cerebellar efferent pathways decussate twice, once leaving the cerebellum and again reaching their targets, effectively canceling net crossing.",
+    "id": 402,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 24,
+    "front": "What structures form the striatum?",
+    "back": "The caudate nucleus and putamen.",
+    "id": 403,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 24,
+    "front": "What proteins form the tight junctions of the blood-brain barrier's endothelial cells?",
+    "back": "Occludins and claudins, eliminating the paracellular diffusion pathway.",
+    "id": 404,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 25,
+    "front": "What histologic finding characterizes neurons 12 to 24 hours after an ischemic insult?",
+    "back": "'Red neurons': shrunken, hypereosinophilic cytoplasm with pyknotic nuclei.",
+    "id": 405,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 25,
+    "front": "What vascular lesion underlies most hypertensive intracerebral hemorrhages?",
+    "back": "Charcot-Bouchard microaneurysms of small penetrating arteries, most often rupturing in the basal ganglia, thalamus, pons, or cerebellum.",
+    "id": 406,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 25,
+    "front": "What is uncal herniation, and what cranial nerve finding does it classically produce?",
+    "back": "Medial temporal lobe herniation through the tentorial notch, classically compressing the ipsilateral oculomotor nerve and producing an early 'blown pupil.'",
+    "id": 407,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 25,
+    "front": "What CSF finding is characteristic of Guillain-Barre syndrome?",
+    "back": "Albuminocytologic dissociation: markedly elevated protein with a normal cell count.",
+    "id": 408,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 25,
+    "front": "What eye finding results from a medial longitudinal fasciculus lesion in multiple sclerosis?",
+    "back": "Internuclear ophthalmoplegia: impaired adduction of one eye with nystagmus of the abducting eye on contralateral gaze.",
+    "id": 409,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 25,
+    "front": "Which enzymes cleave amyloid precursor protein to generate pathogenic amyloid-beta?",
+    "back": "Beta-secretase and gamma-secretase (rather than the normal, non-pathogenic alpha-secretase cleavage).",
+    "id": 410,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 25,
+    "front": "Why do individuals with Down syndrome develop Alzheimer pathology at an accelerated rate?",
+    "back": "The amyloid precursor protein gene is located on chromosome 21; an extra copy from trisomy 21 causes lifelong APP overexpression.",
+    "id": 411,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 25,
+    "front": "What is genetic anticipation, and how does it manifest in Huntington disease?",
+    "back": "A tendency for a trinucleotide repeat to expand further in successive generations, causing earlier onset and greater severity; in Huntington disease this occurs especially with paternal transmission.",
+    "id": 412,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 25,
+    "front": "What neuronal populations are preserved in amyotrophic lateral sclerosis, distinguishing it from most neurodegenerative diseases?",
+    "back": "Cognition, sensation, and extraocular movements are characteristically preserved.",
+    "id": 413,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 25,
+    "front": "What thalamic channel does ethosuximide block, and why does this make it specific for absence seizures?",
+    "back": "T-type voltage-gated calcium channels in thalamic relay neurons, which generate the three-per-second spike-and-wave discharge specific to the thalamocortical circuit underlying absence seizures.",
+    "id": 414,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 25,
+    "front": "What is the teratogenic risk classically associated with valproic acid during pregnancy?",
+    "back": "Neural tube defects.",
+    "id": 415,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 25,
+    "front": "What defines the minimum alveolar concentration (MAC) of an inhaled anesthetic?",
+    "back": "The concentration at which 50 percent of patients fail to move in response to a standardized surgical incision; lower MAC means a more potent agent.",
+    "id": 416,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 25,
+    "front": "Why is etomidate favored in hemodynamically unstable patients, and what is its major risk?",
+    "back": "It produces minimal cardiovascular depression, but carries a risk of adrenocortical suppression via 11-beta-hydroxylase inhibition.",
+    "id": 417,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 25,
+    "front": "Why might repeated naloxone dosing be needed after reversing an overdose of a long-acting opioid?",
+    "back": "Naloxone has a relatively short half-life and can wear off before the longer-acting opioid is fully cleared.",
+    "id": 418,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 25,
+    "front": "What causes the classic autonomic symptoms of opioid withdrawal?",
+    "back": "Rebound noradrenergic hyperactivity from the locus coeruleus, which is normally suppressed by mu-receptor activation.",
+    "id": 419,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 25,
+    "front": "Which organisms most commonly cause neonatal bacterial meningitis?",
+    "back": "Group B Streptococcus, Escherichia coli, and Listeria monocytogenes.",
+    "id": 420,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 26,
+    "front": "Why does the fovea provide the sharpest visual acuity?",
+    "back": "The fovea contains the highest density of cones and no rods or overlying blood vessels, minimizing light scatter and maximizing spatial resolution for central vision.",
+    "id": 421,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 26,
+    "front": "What visual field defect results from a lesion of the optic radiation in the parietal lobe?",
+    "back": "A contralateral homonymous inferior quadrantanopia, since the superior optic radiation carries fibers representing the inferior visual field.",
+    "id": 422,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 26,
+    "front": "What is the function of the trabecular meshwork?",
+    "back": "It is the primary drainage pathway for aqueous humor from the anterior chamber into Schlemm's canal, and its dysfunction is a key mechanism in open-angle glaucoma.",
+    "id": 423,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 26,
+    "front": "What causes presbyopia?",
+    "back": "Age-related loss of lens elasticity, which prevents the lens from becoming round enough during accommodation to focus on near objects even with full ciliary muscle contraction.",
+    "id": 424,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 26,
+    "front": "What is the classic triad of Horner syndrome?",
+    "back": "Ptosis, miosis, and anhidrosis, resulting from disruption of the oculosympathetic pathway.",
+    "id": 425,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 26,
+    "front": "Why does otosclerosis cause conductive hearing loss?",
+    "back": "Abnormal bony remodeling fixes the stapes footplate within the oval window, preventing normal ossicular chain vibration and transmission of sound energy to the cochlea.",
+    "id": 426,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 26,
+    "front": "What retinal finding is classic for hypertensive retinopathy?",
+    "back": "Arteriovenous nicking, focal arteriolar narrowing, cotton-wool spots, and flame-shaped hemorrhages from chronic vascular damage.",
+    "id": 427,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 26,
+    "front": "What is nystagmus, and what does it typically indicate?",
+    "back": "Involuntary, rhythmic oscillation of the eyes, often indicating vestibular, cerebellar, or brainstem pathology, or occurring physiologically at the extremes of gaze.",
+    "id": 428,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 26,
+    "front": "How does the eye maintain corneal transparency?",
+    "back": "The cornea is avascular, relatively dehydrated by active endothelial pump function, and has a highly regular collagen fiber arrangement that minimizes light scatter.",
+    "id": 429,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 26,
+    "front": "What is a scotoma?",
+    "back": "A localized area of partial or complete visual field loss surrounded by an area of normal or less depressed vision.",
+    "id": 430,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 26,
+    "front": "What causes central retinal artery occlusion, and what is the classic fundoscopic finding?",
+    "back": "Embolic or thrombotic occlusion of the central retinal artery, classically producing a pale, edematous retina with a cherry-red spot at the fovea, which retains its color from the underlying choroidal circulation.",
+    "id": 431,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 26,
+    "front": "What is the role of the superior colliculus in vision?",
+    "back": "It coordinates reflexive eye and head movements toward visual stimuli, particularly in the peripheral field, as part of a subcortical visual pathway distinct from the geniculostriate pathway used for conscious perception.",
+    "id": 432,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 26,
+    "front": "What is presbycusis?",
+    "back": "Age-related, typically high-frequency-predominant, bilateral sensorineural hearing loss resulting from progressive degeneration of cochlear hair cells and the auditory nerve.",
+    "id": 433,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 26,
+    "front": "What is the difference between conjunctivitis and uveitis in terms of pain and vision?",
+    "back": "Conjunctivitis typically causes minimal pain and preserved vision with a normal pupil, while uveitis classically causes significant photophobia, pain, and can affect vision, often with an irregular or poorly reactive pupil.",
+    "id": 434,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 26,
+    "front": "What is Meniere's disease and its classic symptom triad?",
+    "back": "A disorder of excess endolymph, or endolymphatic hydrops, causing episodic vertigo, sensorineural hearing loss, and tinnitus, often with a sensation of aural fullness.",
+    "id": 435,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 26,
+    "front": "Why is the macula spared in some occipital lobe strokes?",
+    "back": "The occipital pole representing macular vision receives dual blood supply from both the posterior cerebral and middle cerebral artery territories, so an isolated posterior cerebral artery infarct often spares this region.",
+    "id": 436,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 27,
+    "front": "What are the four required diagnostic clusters of PTSD symptoms?",
+    "back": "Intrusive re-experiencing, avoidance of trauma-related stimuli, negative alterations in cognition and mood, and marked alterations in arousal and reactivity.",
+    "id": 437,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 27,
+    "front": "What distinguishes bipolar I from bipolar II disorder?",
+    "back": "Bipolar I requires at least one full manic episode, while bipolar II requires at least one hypomanic episode plus at least one major depressive episode, without ever meeting full manic criteria.",
+    "id": 438,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 27,
+    "front": "What is the mechanism of action of buspirone in generalized anxiety disorder?",
+    "back": "It is a partial agonist at serotonin 5-HT1A receptors and does not carry the sedation, dependence, or abuse potential associated with benzodiazepines.",
+    "id": 439,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 27,
+    "front": "What laboratory finding is classic for anorexia nervosa with purging?",
+    "back": "Hypokalemia, hypochloremia, and metabolic alkalosis, particularly from self-induced vomiting; bradycardia and hypotension also commonly occur from chronic starvation.",
+    "id": 440,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 27,
+    "front": "What is the difference between illusions and hallucinations?",
+    "back": "An illusion is a misperception of an actual external stimulus, while a hallucination is a perception occurring without any external stimulus at all.",
+    "id": 441,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 27,
+    "front": "What is the classic presentation of narcolepsy?",
+    "back": "Excessive daytime sleepiness with sudden, irresistible sleep attacks, often with cataplexy, or sudden loss of muscle tone triggered by strong emotion, along with hypnagogic hallucinations and sleep paralysis.",
+    "id": 442,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 27,
+    "front": "What is the Kubler-Ross model of grief stages?",
+    "back": "Denial, anger, bargaining, depression, and acceptance, though these stages do not necessarily occur in a fixed order and not every person experiences all of them.",
+    "id": 443,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 27,
+    "front": "What defines conduct disorder in childhood?",
+    "back": "A repetitive, persistent pattern of behavior violating the basic rights of others or major age-appropriate societal norms, including aggression, property destruction, deceitfulness or theft, and serious rule violations.",
+    "id": 444,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 27,
+    "front": "What is the difference between classical and operant conditioning?",
+    "back": "Classical conditioning pairs a neutral stimulus with an unconditioned stimulus to produce a learned response, while operant conditioning shapes behavior through reinforcement or punishment following the behavior itself.",
+    "id": 445,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 27,
+    "front": "What is folie a deux?",
+    "back": "Shared psychotic disorder, in which a delusional belief is transferred from one individual with an established psychotic disorder to another person in close relationship with them.",
+    "id": 446,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 27,
+    "front": "What are the physical signs of opioid overdose requiring naloxone?",
+    "back": "Miosis, severely depressed respiratory rate, and decreased level of consciousness, sometimes progressing to respiratory arrest.",
+    "id": 447,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 27,
+    "front": "What is the defense mechanism of intellectualization?",
+    "back": "Using excessive, detached, abstract reasoning to avoid confronting an uncomfortable emotional reality.",
+    "id": 448,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 27,
+    "front": "What is the difference between delirium and dementia in terms of onset and attention?",
+    "back": "Delirium has an acute onset with fluctuating course and impaired attention, while dementia has an insidious, chronic, progressive course with relatively preserved attention until late stages.",
+    "id": 449,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 27,
+    "front": "What is body dysmorphic disorder?",
+    "back": "Preoccupation with a perceived defect or flaw in physical appearance that is not observable or appears only slight to others, causing significant distress or impairment.",
+    "id": 450,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 27,
+    "front": "What is the primary mechanism of bupropion, and why is it useful in smoking cessation?",
+    "back": "It inhibits dopamine and norepinephrine reuptake and acts as a nicotinic receptor antagonist, reducing cravings, while carrying a lower risk of sexual side effects and weight gain than SSRIs.",
+    "id": 451,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 28,
+    "front": "What is the classic hemodynamic profile of obstructive shock from cardiac tamponade?",
+    "back": "Decreased cardiac output with increased central venous pressure, along with muffled heart sounds, jugular venous distension, and pulsus paradoxus.",
+    "id": 452,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 28,
+    "front": "What is pulsus paradoxus?",
+    "back": "An exaggerated decrease in systolic blood pressure of more than 10 mmHg during inspiration, classically seen in cardiac tamponade.",
+    "id": 453,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 28,
+    "front": "What is the mechanism behind the elevated lactate level seen in shock?",
+    "back": "Inadequate tissue oxygen delivery forces cells to shift from aerobic to anaerobic glycolysis, producing lactate as an end product.",
+    "id": 454,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 28,
+    "front": "What is the classic mechanism of anaphylactic shock?",
+    "back": "IgE-mediated mast cell and basophil degranulation releasing histamine and other mediators, causing vasodilation, increased vascular permeability, and bronchoconstriction.",
+    "id": 455,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 28,
+    "front": "What laboratory abnormality pattern defines disseminated intravascular coagulation?",
+    "back": "Thrombocytopenia, prolonged prothrombin time and partial thromboplastin time, decreased fibrinogen, and elevated D-dimer, reflecting simultaneous clot formation and fibrinolysis.",
+    "id": 456,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 28,
+    "front": "What is the mechanism of action of naloxone?",
+    "back": "A competitive antagonist at opioid receptors that rapidly reverses opioid-induced respiratory depression and sedation.",
+    "id": 457,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 28,
+    "front": "Why is flumazenil used cautiously in mixed overdoses?",
+    "back": "It can precipitate withdrawal seizures in patients with chronic benzodiazepine dependence or unmask a proconvulsant coingestant, such as a tricyclic antidepressant, whose seizure risk the benzodiazepine had been suppressing.",
+    "id": 458,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 28,
+    "front": "What toxic metabolite is responsible for acetaminophen-induced hepatotoxicity?",
+    "back": "N-acetyl-p-benzoquinone imine, a reactive metabolite normally neutralized by hepatic glutathione, which becomes toxic once glutathione stores are depleted in overdose.",
+    "id": 459,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 28,
+    "front": "What is the classic urinary finding in ethylene glycol poisoning?",
+    "back": "Calcium oxalate crystals in the urine, along with an elevated anion gap metabolic acidosis and acute kidney injury.",
+    "id": 460,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 28,
+    "front": "What is the mechanism of methemoglobinemia, and what is a classic cause?",
+    "back": "Oxidation of the ferrous iron in hemoglobin to the ferric state, which cannot bind oxygen; a classic cause is dapsone or certain local anesthetics such as benzocaine.",
+    "id": 461,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 28,
+    "front": "What is the treatment for methemoglobinemia?",
+    "back": "Methylene blue, which accelerates the reduction of methemoglobin back to functional hemoglobin.",
+    "id": 462,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 28,
+    "front": "What toxidrome is produced by beta-blocker overdose, and how is it treated?",
+    "back": "Bradycardia and hypotension from beta-receptor blockade; high-dose glucagon is a specific antidote because it increases intracellular cyclic AMP independent of the beta receptor.",
+    "id": 463,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 28,
+    "front": "What is the significance of a widened QRS complex in tricyclic antidepressant overdose?",
+    "back": "It reflects cardiac fast sodium channel blockade and predicts increased risk of ventricular arrhythmia, guiding the decision to administer sodium bicarbonate.",
+    "id": 464,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 28,
+    "front": "What is the physiologic basis of third-spacing in severe burns?",
+    "back": "Widespread capillary damage, even in unburned tissue, increases vascular permeability, allowing fluid to shift from the intravascular space into the interstitium.",
+    "id": 465,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 28,
+    "front": "What is the mechanism of action of hydroxocobalamin in cyanide poisoning?",
+    "back": "It binds free cyanide directly to form cyanocobalamin, which is then renally excreted, without requiring induction of methemoglobinemia.",
+    "id": 466,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 29,
+    "front": "What is the formula for attributable risk?",
+    "back": "The risk of disease in the exposed group minus the risk of disease in the unexposed group, representing the absolute excess risk due to exposure.",
+    "id": 467,
+    "domain": "biostatistics_epi"
+  },
+  {
+    "chapter": 29,
+    "front": "Why does the odds ratio approximate the relative risk when disease is rare?",
+    "back": "When disease is rare, the odds of disease and the risk of disease become numerically very similar, since the disease-negative denominator is only minimally reduced by the small number of cases.",
+    "id": 468,
+    "domain": "biostatistics_epi"
+  },
+  {
+    "chapter": 29,
+    "front": "What is publication bias?",
+    "back": "The tendency for studies with statistically significant or positive results to be published more often than studies with null or negative results, potentially skewing the overall body of available evidence.",
+    "id": 469,
+    "domain": "biostatistics_epi"
+  },
+  {
+    "chapter": 29,
+    "front": "What is a meta-analysis?",
+    "back": "A statistical technique that combines the results of multiple independent studies addressing the same question to produce a single, more precise pooled estimate of effect.",
+    "id": 470,
+    "domain": "biostatistics_epi"
+  },
+  {
+    "chapter": 29,
+    "front": "What is the difference between internal and external validity?",
+    "back": "Internal validity refers to how well a study's results reflect a true causal relationship within that specific study, while external validity refers to how generalizable those results are to other populations or settings.",
+    "id": 471,
+    "domain": "biostatistics_epi"
+  },
+  {
+    "chapter": 29,
+    "front": "What is a placebo effect?",
+    "back": "A measurable improvement in a patient's symptoms or condition resulting from the expectation of benefit rather than from any pharmacologic or physiologic effect of an inactive treatment.",
+    "id": 472,
+    "domain": "biostatistics_epi"
+  },
+  {
+    "chapter": 29,
+    "front": "What is the Hawthorne effect?",
+    "back": "A phenomenon in which study participants alter their behavior simply because they are aware of being observed, independent of any actual intervention being tested.",
+    "id": 473,
+    "domain": "biostatistics_epi"
+  },
+  {
+    "chapter": 29,
+    "front": "What is regression to the mean?",
+    "back": "The statistical tendency for an extreme initial measurement to be followed by a subsequent measurement closer to the average, which can create a false appearance of treatment effect if not accounted for.",
+    "id": 474,
+    "domain": "biostatistics_epi"
+  },
+  {
+    "chapter": 29,
+    "front": "What does a p-value actually represent?",
+    "back": "The probability of obtaining a result at least as extreme as the one observed, assuming the null hypothesis is true; it is not the probability that the null hypothesis itself is true.",
+    "id": 475,
+    "domain": "biostatistics_epi"
+  },
+  {
+    "chapter": 29,
+    "front": "What is the difference between a systematic review and a narrative review?",
+    "back": "A systematic review uses a predefined, reproducible methodology to comprehensively identify and synthesize relevant studies, while a narrative review is a less structured summary more subject to selective inclusion of evidence.",
+    "id": 476,
+    "domain": "biostatistics_epi"
+  },
+  {
+    "chapter": 29,
+    "front": "What is stratification used for in addressing confounding?",
+    "back": "Analyzing the association between exposure and outcome separately within subgroups, or strata, of the confounding variable to see whether the association persists once its influence is accounted for.",
+    "id": 477,
+    "domain": "biostatistics_epi"
+  },
+  {
+    "chapter": 29,
+    "front": "What is the difference between crude and adjusted measures of association?",
+    "back": "A crude measure reflects the raw, unadjusted relationship between exposure and outcome, while an adjusted measure accounts for the influence of one or more confounding variables.",
+    "id": 478,
+    "domain": "biostatistics_epi"
+  },
+  {
+    "chapter": 29,
+    "front": "What does a forest plot display in a meta-analysis?",
+    "back": "The individual effect estimates and confidence intervals from each included study, along with a pooled overall estimate, typically represented by a diamond at the bottom of the plot.",
+    "id": 479,
+    "domain": "biostatistics_epi"
+  },
+  {
+    "chapter": 29,
+    "front": "What is ecological fallacy?",
+    "back": "The error of inferring conclusions about individuals based solely on data observed at the group or population level, which may not accurately reflect individual-level relationships.",
+    "id": 480,
+    "domain": "biostatistics_epi"
+  },
+  {
+    "chapter": 29,
+    "front": "What is the difference between accuracy and precision in measurement?",
+    "back": "Accuracy describes how close a measurement is to the true value, while precision describes how reproducible or consistent repeated measurements are, regardless of whether they are close to the true value.",
+    "id": 481,
+    "domain": "biostatistics_epi"
+  },
+  {
+    "chapter": 30,
+    "front": "What are the three essential elements of valid informed consent?",
+    "back": "Adequate disclosure of relevant information, patient decision-making capacity, and voluntariness free from coercion.",
+    "id": 482,
+    "domain": "social_sciences"
+  },
+  {
+    "chapter": 30,
+    "front": "What is substituted judgment?",
+    "back": "A surrogate decision-making standard in which the decision-maker attempts to decide as the patient themselves would have decided, based on the patient's own previously known values and preferences.",
+    "id": 483,
+    "domain": "social_sciences"
+  },
+  {
+    "chapter": 30,
+    "front": "What is the best interest standard?",
+    "back": "A surrogate decision-making standard used when a patient's own preferences are unknown, in which the surrogate decides based on what a reasonable person would consider to be in the patient's best welfare.",
+    "id": 484,
+    "domain": "social_sciences"
+  },
+  {
+    "chapter": 30,
+    "front": "What is HIPAA, and what does it primarily govern?",
+    "back": "The Health Insurance Portability and Accountability Act, a federal law establishing national standards for protecting the privacy and security of patients' protected health information.",
+    "id": 485,
+    "domain": "social_sciences"
+  },
+  {
+    "chapter": 30,
+    "front": "What is the difference between an incident report and root cause analysis?",
+    "back": "An incident report is the initial documentation of an adverse event, while root cause analysis is the subsequent structured investigation into the underlying systemic factors that contributed to that event.",
+    "id": 486,
+    "domain": "social_sciences"
+  },
+  {
+    "chapter": 30,
+    "front": "What is a conflict of interest in a clinical or research setting?",
+    "back": "A situation in which a professional's personal, financial, or other secondary interest could potentially compromise their primary obligation to act in the best interest of a patient or the integrity of research.",
+    "id": 487,
+    "domain": "social_sciences"
+  },
+  {
+    "chapter": 30,
+    "front": "What is the mature minor doctrine?",
+    "back": "A legal principle, recognized in some jurisdictions, allowing a minor who demonstrates sufficient maturity and understanding to consent to certain medical treatment without parental involvement.",
+    "id": 488,
+    "domain": "social_sciences"
+  },
+  {
+    "chapter": 30,
+    "front": "What ethical principle is primarily invoked when allocating scarce medical resources, such as organs for transplantation?",
+    "back": "Justice, which requires a fair and equitable framework for distributing limited resources among patients with competing needs.",
+    "id": 489,
+    "domain": "social_sciences"
+  },
+  {
+    "chapter": 30,
+    "front": "What is the difference between palliative care and hospice care?",
+    "back": "Palliative care focuses on symptom relief and quality of life and can be provided alongside curative treatment at any stage of illness, while hospice care is specifically for patients with a terminal prognosis who have chosen to forgo curative treatment.",
+    "id": 490,
+    "domain": "social_sciences"
+  },
+  {
+    "chapter": 30,
+    "front": "What is implicit bias, and how can it affect clinical care?",
+    "back": "Unconscious attitudes or stereotypes that can influence a clinician's understanding, decisions, and actions without their conscious awareness, potentially contributing to disparities in care quality.",
+    "id": 491,
+    "domain": "social_sciences"
+  },
+  {
+    "chapter": 30,
+    "front": "What does the term allostatic load describe?",
+    "back": "The cumulative physiologic wear on the body's regulatory systems resulting from chronic exposure to stress, thought to contribute to health disparities linked to social disadvantage.",
+    "id": 492,
+    "domain": "social_sciences"
+  },
+  {
+    "chapter": 30,
+    "front": "What is a never event in patient safety terminology?",
+    "back": "A serious, largely preventable adverse event that should essentially never occur if appropriate safety protocols are correctly followed, such as wrong-site surgery.",
+    "id": 493,
+    "domain": "social_sciences"
+  },
+  {
+    "chapter": 30,
+    "front": "What is the difference between Medicare and Medicaid eligibility?",
+    "back": "Medicare primarily covers individuals 65 and older or with certain qualifying disabilities regardless of income, while Medicaid primarily covers eligible low-income individuals and families based on financial need.",
+    "id": 494,
+    "domain": "social_sciences"
+  },
+  {
+    "chapter": 30,
+    "front": "What is therapeutic privilege?",
+    "back": "The withholding of certain distressing medical information from a patient believed likely to be seriously harmed by that disclosure, now considered ethically justified only in exceedingly narrow circumstances.",
+    "id": 495,
+    "domain": "social_sciences"
+  },
+  {
+    "chapter": 27,
+    "front": "What is the mechanism of methylphenidate in ADHD, and why does a stimulant help hyperactivity?",
+    "back": "It blocks dopamine and norepinephrine reuptake, increasing catecholamine signaling in prefrontal circuits that regulate attention and impulse control, which paradoxically improves focus rather than causing further overactivity.",
+    "id": 496,
+    "domain": "behavioral_nervous_senses"
+  },
+  {
+    "chapter": 28,
+    "front": "What is the classic time course of alcohol withdrawal severity?",
+    "back": "Tremor and anxiety within 6 to 24 hours, alcoholic hallucinosis within 12 to 48 hours, and withdrawal seizures or delirium tremens typically peaking at 48 to 96 hours after the last drink.",
+    "id": 497,
+    "domain": "multisystem"
+  },
+  {
+    "chapter": 29,
+    "front": "What is the difference between a Type I and a Type II error in one sentence each?",
+    "back": "A Type I error incorrectly rejects a true null hypothesis (a false positive), while a Type II error fails to reject a false null hypothesis (a false negative).",
+    "id": 498,
+    "domain": "biostatistics_epi"
+  },
+  {
+    "chapter": 30,
+    "front": "What is the standard surrogate decision-making hierarchy when no advance directive exists?",
+    "back": "Typically a court-appointed guardian first, then a spouse, then adult children, then parents, then adult siblings, though the exact order can vary by jurisdiction.",
+    "id": 499,
+    "domain": "social_sciences"
+  },
+  {
+    "chapter": 30,
+    "front": "What is the Plan-Do-Study-Act cycle used for?",
+    "back": "An iterative framework for continuous quality improvement in which a proposed change is planned, implemented on a small scale, evaluated, and then adopted, modified, or abandoned before repeating.",
+    "id": 500,
+    "domain": "social_sciences"
+  }
+]
